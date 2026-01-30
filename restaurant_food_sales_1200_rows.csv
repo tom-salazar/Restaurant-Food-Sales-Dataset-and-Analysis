@@ -1,0 +1,1200 @@
+1001,18/03/2025,CUST4674,Ramen,Japanese,1,11,11,Cash,New York
+1002,26/03/2025,CUST3142,Fried Chicken,Fast Food,5,6,30,UPI,Chicago
+1003,30/01/2025,CUST7758,Ramen,Japanese,5,11,55,Cash,Austin
+1004,14/02/2025,CUST1407,Sushi,Japanese,2,12,24,Cash,Austin
+1005,16/03/2025,CUST5607,Tacos,Mexican,3,3,9,UPI,Boston
+1006,10/02/2025,CUST6185,Sandwich,Vegetarian,5,4.5,22.5,Cash,Austin
+1007,16/01/2025,CUST5961,Sandwich,Vegetarian,5,4.5,22.5,UPI,Boston
+1008,18/02/2025,CUST9113,Sandwich,Vegetarian,4,4.5,18,UPI,Austin
+1009,20/01/2025,CUST1123,Salad,Healthy,4,7,28,UPI,Chicago
+1010,24/01/2025,CUST1926,Burrito,Mexican,4,7,28,Cash,San Francisco
+1011,02/03/2025,CUST6282,Fried Chicken,Fast Food,2,6,12,Card,Chicago
+1012,03/03/2025,CUST5056,Pizza,Fast Food,5,8,40,Card,San Francisco
+1013,28/03/2025,CUST7978,Pizza,Fast Food,2,8,16,Card,Boston
+1014,13/02/2025,CUST5416,Fried Chicken,Fast Food,3,6,18,UPI,Boston
+1015,22/03/2025,CUST8334,Pasta,Italian,5,9,45,UPI,San Francisco
+1016,23/02/2025,CUST4634,Pasta,Italian,5,9,45,Cash,New York
+1017,13/01/2025,CUST5849,Burrito,Mexican,4,7,28,Card,Chicago
+1018,25/01/2025,CUST7999,Sandwich,Vegetarian,2,4.5,9,Cash,Chicago
+1019,22/01/2025,CUST1238,Sushi,Japanese,5,12,60,Card,Boston
+1020,06/02/2025,CUST3745,Sushi,Japanese,4,12,48,Card,New York
+1021,11/02/2025,CUST9548,Ramen,Japanese,2,11,22,Cash,Boston
+1022,15/01/2025,CUST7427,Pasta,Italian,5,9,45,Card,Boston
+1023,10/03/2025,CUST5522,Sushi,Japanese,5,12,60,Card,New York
+1024,10/03/2025,CUST1182,Pizza,Fast Food,3,8,24,Cash,Austin
+1025,24/02/2025,CUST2144,Pizza,Fast Food,5,8,40,Card,Austin
+1026,01/01/2025,CUST5703,Burger,Fast Food,1,5,5,Cash,San Francisco
+1027,12/03/2025,CUST1412,Burger,Fast Food,1,5,5,Cash,Boston
+1028,06/03/2025,CUST8520,Pizza,Fast Food,3,8,24,Card,New York
+1029,20/02/2025,CUST2550,Pasta,Italian,5,9,45,Card,San Francisco
+1030,22/02/2025,CUST9587,Sandwich,Vegetarian,4,4.5,18,UPI,New York
+1031,17/03/2025,CUST2364,Salad,Healthy,4,7,28,UPI,San Francisco
+1032,08/01/2025,CUST9505,Sushi,Japanese,3,12,36,Card,Boston
+1033,08/02/2025,CUST9306,Sushi,Japanese,5,12,60,Cash,New York
+1034,27/02/2025,CUST9465,Tacos,Mexican,2,3,6,Cash,Boston
+1035,26/03/2025,CUST4485,Ramen,Japanese,1,11,11,Cash,New York
+1036,29/03/2025,CUST1468,Salad,Healthy,4,7,28,Cash,Austin
+1037,18/01/2025,CUST6085,Tacos,Mexican,4,3,12,UPI,Boston
+1038,01/01/2025,CUST3629,Pasta,Italian,1,9,9,Cash,Chicago
+1039,21/02/2025,CUST1270,Pizza,Fast Food,2,8,16,Cash,San Francisco
+1040,31/03/2025,CUST5250,Ramen,Japanese,2,11,22,UPI,New York
+1041,05/01/2025,CUST8536,Fried Chicken,Fast Food,1,6,6,UPI,San Francisco
+1042,24/01/2025,CUST8512,Pasta,Italian,2,9,18,Card,San Francisco
+1043,21/02/2025,CUST5696,Sushi,Japanese,1,12,12,Card,New York
+1044,30/03/2025,CUST9110,Burger,Fast Food,4,5,20,Card,Chicago
+1045,27/01/2025,CUST4974,Tacos,Mexican,1,3,3,Card,Boston
+1046,11/01/2025,CUST9605,Pasta,Italian,5,9,45,Cash,San Francisco
+1047,18/03/2025,CUST4006,Ramen,Japanese,3,11,33,Cash,New York
+1048,11/03/2025,CUST4455,Sushi,Japanese,5,12,60,UPI,Austin
+1049,29/01/2025,CUST6297,Pasta,Italian,3,9,27,Cash,New York
+1050,10/03/2025,CUST2172,Burrito,Mexican,3,7,21,Cash,Chicago
+1051,06/02/2025,CUST2905,Pasta,Italian,5,9,45,Cash,New York
+1052,27/03/2025,CUST6045,Sandwich,Vegetarian,5,4.5,22.5,UPI,Chicago
+1053,06/02/2025,CUST3652,Fried Chicken,Fast Food,4,6,24,UPI,New York
+1054,27/03/2025,CUST4182,Pizza,Fast Food,5,8,40,UPI,San Francisco
+1055,29/03/2025,CUST8723,Fried Chicken,Fast Food,1,6,6,Card,Chicago
+1056,18/01/2025,CUST4080,Pasta,Italian,2,9,18,Cash,San Francisco
+1057,11/02/2025,CUST3730,Sushi,Japanese,2,12,24,Card,Chicago
+1058,11/02/2025,CUST7865,Pizza,Fast Food,3,8,24,UPI,San Francisco
+1059,05/03/2025,CUST1005,Ramen,Japanese,5,11,55,Cash,San Francisco
+1060,16/01/2025,CUST7207,Burger,Fast Food,4,5,20,Cash,Austin
+1061,08/02/2025,CUST8295,Ramen,Japanese,4,11,44,Card,San Francisco
+1062,29/03/2025,CUST6010,Tacos,Mexican,4,3,12,UPI,New York
+1063,12/02/2025,CUST9106,Fried Chicken,Fast Food,3,6,18,UPI,Chicago
+1064,08/03/2025,CUST9592,Pasta,Italian,2,9,18,UPI,Chicago
+1065,01/01/2025,CUST3478,Sandwich,Vegetarian,4,4.5,18,Card,New York
+1066,27/02/2025,CUST6384,Burger,Fast Food,5,5,25,UPI,Chicago
+1067,11/01/2025,CUST7828,Pizza,Fast Food,2,8,16,UPI,San Francisco
+1068,01/02/2025,CUST2965,Burrito,Mexican,3,7,21,UPI,Boston
+1069,06/02/2025,CUST4557,Pizza,Fast Food,2,8,16,UPI,New York
+1070,21/01/2025,CUST7616,Tacos,Mexican,5,3,15,UPI,Austin
+1071,02/03/2025,CUST9639,Salad,Healthy,2,7,14,Card,San Francisco
+1072,17/01/2025,CUST7801,Pasta,Italian,1,9,9,Cash,Chicago
+1073,29/01/2025,CUST8865,Salad,Healthy,2,7,14,UPI,Austin
+1074,27/03/2025,CUST4532,Ramen,Japanese,4,11,44,Card,New York
+1075,18/01/2025,CUST2677,Burger,Fast Food,1,5,5,Cash,New York
+1076,03/03/2025,CUST4943,Pasta,Italian,1,9,9,UPI,San Francisco
+1077,04/02/2025,CUST9831,Burger,Fast Food,1,5,5,UPI,San Francisco
+1078,04/01/2025,CUST9420,Sandwich,Vegetarian,4,4.5,18,UPI,San Francisco
+1079,20/02/2025,CUST2050,Burger,Fast Food,5,5,25,Cash,Boston
+1080,01/04/2025,CUST4935,Burrito,Mexican,1,7,7,Card,San Francisco
+1081,11/01/2025,CUST6157,Fried Chicken,Fast Food,2,6,12,Cash,Chicago
+1082,07/03/2025,CUST7295,Burrito,Mexican,2,7,14,Cash,Boston
+1083,31/01/2025,CUST2877,Ramen,Japanese,4,11,44,UPI,Austin
+1084,16/03/2025,CUST9969,Ramen,Japanese,5,11,55,Card,San Francisco
+1085,10/02/2025,CUST1816,Sushi,Japanese,4,12,48,Card,Chicago
+1086,20/02/2025,CUST5092,Salad,Healthy,5,7,35,UPI,San Francisco
+1087,12/01/2025,CUST5234,Ramen,Japanese,3,11,33,Card,Austin
+1088,18/01/2025,CUST9962,Pizza,Fast Food,4,8,32,Cash,Austin
+1089,09/02/2025,CUST5815,Sandwich,Vegetarian,1,4.5,4.5,UPI,San Francisco
+1090,16/03/2025,CUST4226,Fried Chicken,Fast Food,2,6,12,UPI,Boston
+1091,07/01/2025,CUST6174,Fried Chicken,Fast Food,4,6,24,Card,Austin
+1092,10/03/2025,CUST3214,Salad,Healthy,2,7,14,Cash,Austin
+1093,31/01/2025,CUST4567,Sushi,Japanese,5,12,60,Card,Chicago
+1094,05/02/2025,CUST8012,Pasta,Italian,5,9,45,UPI,San Francisco
+1095,11/03/2025,CUST4206,Sushi,Japanese,4,12,48,Card,San Francisco
+1096,03/03/2025,CUST2212,Tacos,Mexican,5,3,15,Card,Chicago
+1097,05/02/2025,CUST9488,Fried Chicken,Fast Food,4,6,24,Cash,Boston
+1098,27/02/2025,CUST8608,Pizza,Fast Food,5,8,40,UPI,Austin
+1099,08/02/2025,CUST3793,Pizza,Fast Food,3,8,24,Cash,Boston
+1100,23/03/2025,CUST5065,Fried Chicken,Fast Food,1,6,6,Card,Austin
+1101,06/02/2025,CUST7367,Salad,Healthy,5,7,35,Cash,Austin
+1102,11/03/2025,CUST3877,Burger,Fast Food,5,5,25,Cash,New York
+1103,15/01/2025,CUST1812,Pizza,Fast Food,4,8,32,Card,Boston
+1104,21/02/2025,CUST1727,Salad,Healthy,5,7,35,Card,San Francisco
+1105,03/02/2025,CUST6652,Pasta,Italian,5,9,45,Cash,Austin
+1106,20/01/2025,CUST8522,Pasta,Italian,3,9,27,UPI,Austin
+1107,04/03/2025,CUST3088,Sushi,Japanese,1,12,12,UPI,Boston
+1108,05/03/2025,CUST6691,Ramen,Japanese,4,11,44,UPI,San Francisco
+1109,07/01/2025,CUST1869,Tacos,Mexican,3,3,9,Card,Austin
+1110,21/02/2025,CUST6461,Burrito,Mexican,1,7,7,UPI,New York
+1111,30/03/2025,CUST4371,Salad,Healthy,5,7,35,Card,New York
+1112,11/02/2025,CUST2150,Burger,Fast Food,1,5,5,UPI,Chicago
+1113,26/03/2025,CUST4689,Burger,Fast Food,1,5,5,Cash,Chicago
+1114,18/01/2025,CUST7742,Pasta,Italian,4,9,36,Card,Chicago
+1115,24/01/2025,CUST6722,Burger,Fast Food,5,5,25,UPI,New York
+1116,08/01/2025,CUST5318,Ramen,Japanese,1,11,11,UPI,San Francisco
+1117,06/01/2025,CUST9042,Sandwich,Vegetarian,5,4.5,22.5,Cash,Chicago
+1118,10/01/2025,CUST6078,Burrito,Mexican,2,7,14,UPI,Boston
+1119,05/01/2025,CUST5154,Pasta,Italian,2,9,18,Card,San Francisco
+1120,21/01/2025,CUST6267,Ramen,Japanese,4,11,44,UPI,San Francisco
+1121,23/03/2025,CUST7261,Sandwich,Vegetarian,5,4.5,22.5,UPI,New York
+1122,18/03/2025,CUST5814,Tacos,Mexican,4,3,12,Card,Boston
+1123,26/02/2025,CUST2628,Burrito,Mexican,5,7,35,Cash,New York
+1124,18/03/2025,CUST8017,Sushi,Japanese,1,12,12,UPI,Boston
+1125,18/03/2025,CUST1699,Sandwich,Vegetarian,4,4.5,18,UPI,Boston
+1126,02/01/2025,CUST8211,Tacos,Mexican,5,3,15,Card,Austin
+1127,04/02/2025,CUST6684,Burrito,Mexican,1,7,7,Card,San Francisco
+1128,29/03/2025,CUST5447,Sushi,Japanese,4,12,48,Card,Austin
+1129,04/03/2025,CUST1987,Salad,Healthy,5,7,35,Cash,Austin
+1130,24/01/2025,CUST4056,Pizza,Fast Food,3,8,24,Cash,Chicago
+1131,05/01/2025,CUST1654,Sushi,Japanese,4,12,48,Card,Chicago
+1132,21/01/2025,CUST1393,Tacos,Mexican,5,3,15,UPI,Boston
+1133,13/02/2025,CUST3119,Fried Chicken,Fast Food,2,6,12,UPI,Austin
+1134,11/03/2025,CUST9858,Pizza,Fast Food,3,8,24,Cash,Austin
+1135,26/03/2025,CUST7686,Tacos,Mexican,3,3,9,UPI,Chicago
+1136,20/02/2025,CUST5718,Tacos,Mexican,5,3,15,UPI,San Francisco
+1137,17/03/2025,CUST3117,Pasta,Italian,3,9,27,Card,Austin
+1138,10/01/2025,CUST3950,Ramen,Japanese,4,11,44,Cash,San Francisco
+1139,08/01/2025,CUST6901,Burger,Fast Food,5,5,25,UPI,Austin
+1140,28/03/2025,CUST7576,Sandwich,Vegetarian,4,4.5,18,Card,San Francisco
+1141,12/02/2025,CUST7289,Tacos,Mexican,2,3,6,UPI,Austin
+1142,22/01/2025,CUST6304,Salad,Healthy,3,7,21,Card,Chicago
+1143,30/03/2025,CUST8077,Sandwich,Vegetarian,2,4.5,9,Card,Austin
+1144,26/03/2025,CUST7727,Pasta,Italian,4,9,36,UPI,Austin
+1145,26/03/2025,CUST7727,Sushi,Japanese,4,12,48,Card,Boston
+1146,06/01/2025,CUST4667,Pizza,Fast Food,4,8,32,Card,New York
+1147,18/01/2025,CUST2097,Burger,Fast Food,5,5,25,UPI,Chicago
+1148,17/03/2025,CUST1524,Sandwich,Vegetarian,4,4.5,18,UPI,New York
+1149,13/02/2025,CUST7637,Pasta,Italian,3,9,27,UPI,Chicago
+1150,05/02/2025,CUST5115,Sandwich,Vegetarian,2,4.5,9,Card,Austin
+1151,08/01/2025,CUST5751,Pizza,Fast Food,4,8,32,Card,Chicago
+1152,08/01/2025,CUST1968,Ramen,Japanese,4,11,44,UPI,Boston
+1153,12/01/2025,CUST9389,Pasta,Italian,4,9,36,Card,Chicago
+1154,03/01/2025,CUST3376,Sushi,Japanese,1,12,12,UPI,New York
+1155,24/02/2025,CUST5455,Tacos,Mexican,5,3,15,Card,Boston
+1156,31/01/2025,CUST8502,Sandwich,Vegetarian,1,4.5,4.5,Cash,Austin
+1157,07/02/2025,CUST5169,Tacos,Mexican,2,3,6,Card,Chicago
+1158,02/02/2025,CUST7560,Burger,Fast Food,4,5,20,UPI,Chicago
+1159,21/01/2025,CUST4861,Fried Chicken,Fast Food,5,6,30,Cash,New York
+1160,13/02/2025,CUST6711,Fried Chicken,Fast Food,4,6,24,Card,San Francisco
+1161,01/04/2025,CUST1134,Sandwich,Vegetarian,1,4.5,4.5,Cash,New York
+1162,28/02/2025,CUST9798,Ramen,Japanese,1,11,11,UPI,Chicago
+1163,12/02/2025,CUST6818,Fried Chicken,Fast Food,1,6,6,Card,San Francisco
+1164,31/01/2025,CUST1777,Fried Chicken,Fast Food,1,6,6,Card,Chicago
+1165,02/01/2025,CUST3207,Burger,Fast Food,3,5,15,Card,Boston
+1166,08/03/2025,CUST6415,Burrito,Mexican,2,7,14,Cash,San Francisco
+1167,01/02/2025,CUST4724,Burger,Fast Food,4,5,20,UPI,Chicago
+1168,28/01/2025,CUST9297,Fried Chicken,Fast Food,4,6,24,UPI,Austin
+1169,18/03/2025,CUST3268,Burger,Fast Food,3,5,15,Cash,New York
+1170,01/04/2025,CUST3806,Pizza,Fast Food,5,8,40,UPI,New York
+1171,26/01/2025,CUST1049,Ramen,Japanese,1,11,11,Card,Austin
+1172,22/03/2025,CUST6068,Burger,Fast Food,1,5,5,Card,Boston
+1173,20/03/2025,CUST4624,Fried Chicken,Fast Food,5,6,30,Cash,Austin
+1174,26/02/2025,CUST2285,Sandwich,Vegetarian,2,4.5,9,UPI,New York
+1175,12/02/2025,CUST4257,Burrito,Mexican,3,7,21,Cash,Chicago
+1176,04/03/2025,CUST1228,Salad,Healthy,4,7,28,Card,Austin
+1177,04/01/2025,CUST6941,Burger,Fast Food,5,5,25,Card,New York
+1178,25/01/2025,CUST3131,Ramen,Japanese,4,11,44,UPI,New York
+1179,07/01/2025,CUST6551,Fried Chicken,Fast Food,4,6,24,Card,Boston
+1180,16/01/2025,CUST1024,Sandwich,Vegetarian,3,4.5,13.5,Card,San Francisco
+1181,30/03/2025,CUST9425,Sandwich,Vegetarian,4,4.5,18,UPI,Boston
+1182,23/02/2025,CUST9410,Pasta,Italian,2,9,18,Card,New York
+1183,03/01/2025,CUST2440,Salad,Healthy,1,7,7,Cash,Boston
+1184,01/02/2025,CUST8787,Tacos,Mexican,5,3,15,Card,Austin
+1185,29/01/2025,CUST5527,Sandwich,Vegetarian,4,4.5,18,UPI,San Francisco
+1186,16/03/2025,CUST4295,Sushi,Japanese,3,12,36,Cash,Austin
+1187,09/02/2025,CUST7114,Fried Chicken,Fast Food,1,6,6,UPI,Chicago
+1188,12/01/2025,CUST1054,Sandwich,Vegetarian,4,4.5,18,Card,San Francisco
+1189,28/02/2025,CUST8795,Sushi,Japanese,5,12,60,UPI,San Francisco
+1190,22/03/2025,CUST3475,Pasta,Italian,2,9,18,Card,Boston
+1191,11/02/2025,CUST3110,Pasta,Italian,4,9,36,Cash,San Francisco
+1192,11/03/2025,CUST1649,Burrito,Mexican,5,7,35,Card,Boston
+1193,24/01/2025,CUST1313,Fried Chicken,Fast Food,2,6,12,Card,Austin
+1194,10/03/2025,CUST9468,Salad,Healthy,3,7,21,Cash,San Francisco
+1195,27/03/2025,CUST7818,Pasta,Italian,4,9,36,UPI,Boston
+1196,11/02/2025,CUST5990,Fried Chicken,Fast Food,2,6,12,UPI,Boston
+1197,16/03/2025,CUST1868,Burrito,Mexican,3,7,21,UPI,Boston
+1198,06/02/2025,CUST7061,Tacos,Mexican,5,3,15,Card,Austin
+1199,19/01/2025,CUST5747,Fried Chicken,Fast Food,2,6,12,Cash,Boston
+1200,10/03/2025,CUST6323,Salad,Healthy,5,7,35,Cash,New York
+1201,30/01/2025,CUST7426,Salad,Healthy,4,7,28,Cash,New York
+1202,04/03/2025,CUST7250,Sandwich,Vegetarian,1,4.5,4.5,UPI,New York
+1203,21/02/2025,CUST6935,Salad,Healthy,2,7,14,UPI,New York
+1204,03/02/2025,CUST6182,Burrito,Mexican,3,7,21,UPI,New York
+1205,23/01/2025,CUST3649,Burger,Fast Food,5,5,25,Card,Boston
+1206,04/03/2025,CUST4334,Ramen,Japanese,3,11,33,Card,San Francisco
+1207,17/01/2025,CUST1597,Burrito,Mexican,5,7,35,Cash,Boston
+1208,20/03/2025,CUST1621,Fried Chicken,Fast Food,1,6,6,Cash,San Francisco
+1209,21/03/2025,CUST1558,Burger,Fast Food,5,5,25,Cash,San Francisco
+1210,18/01/2025,CUST2792,Sushi,Japanese,2,12,24,Card,San Francisco
+1211,13/02/2025,CUST8735,Burrito,Mexican,3,7,21,Card,New York
+1212,22/03/2025,CUST3298,Fried Chicken,Fast Food,4,6,24,Card,New York
+1213,14/03/2025,CUST9656,Pasta,Italian,2,9,18,Card,Boston
+1214,08/03/2025,CUST3153,Tacos,Mexican,2,3,6,Card,Boston
+1215,04/03/2025,CUST8824,Pasta,Italian,1,9,9,Cash,San Francisco
+1216,10/01/2025,CUST9280,Ramen,Japanese,4,11,44,UPI,San Francisco
+1217,06/02/2025,CUST4603,Fried Chicken,Fast Food,1,6,6,UPI,Austin
+1218,17/01/2025,CUST3035,Fried Chicken,Fast Food,1,6,6,Card,Boston
+1219,22/02/2025,CUST8815,Pasta,Italian,1,9,9,Cash,Boston
+1220,02/02/2025,CUST3187,Sushi,Japanese,4,12,48,UPI,Boston
+1221,14/02/2025,CUST4757,Burger,Fast Food,1,5,5,Cash,Austin
+1222,04/01/2025,CUST2870,Pizza,Fast Food,4,8,32,Card,San Francisco
+1223,27/01/2025,CUST9979,Fried Chicken,Fast Food,5,6,30,Card,Chicago
+1224,29/03/2025,CUST5729,Sushi,Japanese,3,12,36,Cash,Austin
+1225,06/03/2025,CUST1150,Burger,Fast Food,5,5,25,Card,Austin
+1226,17/03/2025,CUST4146,Burger,Fast Food,1,5,5,UPI,Austin
+1227,07/01/2025,CUST6569,Fried Chicken,Fast Food,1,6,6,Card,New York
+1228,01/02/2025,CUST5341,Tacos,Mexican,1,3,3,Card,New York
+1229,29/01/2025,CUST5590,Pasta,Italian,1,9,9,UPI,Chicago
+1230,19/02/2025,CUST4914,Sandwich,Vegetarian,3,4.5,13.5,Card,Boston
+1231,25/02/2025,CUST8893,Ramen,Japanese,1,11,11,Card,Chicago
+1232,19/01/2025,CUST3347,Salad,Healthy,5,7,35,Card,New York
+1233,15/03/2025,CUST2816,Sushi,Japanese,3,12,36,UPI,San Francisco
+1234,20/03/2025,CUST5548,Pasta,Italian,5,9,45,Cash,New York
+1235,17/01/2025,CUST6950,Ramen,Japanese,1,11,11,Card,Chicago
+1236,02/03/2025,CUST2140,Burrito,Mexican,2,7,14,UPI,Austin
+1237,31/01/2025,CUST1395,Ramen,Japanese,1,11,11,UPI,Boston
+1238,06/02/2025,CUST2709,Sushi,Japanese,2,12,24,Cash,San Francisco
+1239,23/01/2025,CUST3800,Tacos,Mexican,3,3,9,Cash,Austin
+1240,14/02/2025,CUST6126,Ramen,Japanese,1,11,11,Card,Boston
+1241,15/01/2025,CUST1889,Pizza,Fast Food,2,8,16,Cash,New York
+1242,21/01/2025,CUST7598,Pizza,Fast Food,4,8,32,Cash,San Francisco
+1243,24/02/2025,CUST2669,Sushi,Japanese,4,12,48,Card,Austin
+1244,07/02/2025,CUST7378,Salad,Healthy,5,7,35,Cash,Austin
+1245,20/01/2025,CUST3547,Ramen,Japanese,1,11,11,UPI,Chicago
+1246,31/03/2025,CUST2068,Tacos,Mexican,2,3,6,UPI,Boston
+1247,24/02/2025,CUST3600,Sandwich,Vegetarian,4,4.5,18,Cash,Chicago
+1248,13/03/2025,CUST3060,Burger,Fast Food,5,5,25,UPI,Austin
+1249,26/01/2025,CUST3877,Pizza,Fast Food,4,8,32,Card,Boston
+1250,01/01/2025,CUST5940,Pasta,Italian,1,9,9,Cash,Austin
+1251,05/03/2025,CUST5125,Tacos,Mexican,3,3,9,Card,Boston
+1252,07/01/2025,CUST2303,Salad,Healthy,4,7,28,Card,New York
+1253,04/02/2025,CUST7588,Pasta,Italian,1,9,9,UPI,Boston
+1254,31/01/2025,CUST3673,Fried Chicken,Fast Food,2,6,12,Card,San Francisco
+1255,10/02/2025,CUST2031,Burrito,Mexican,4,7,28,Cash,Austin
+1256,08/02/2025,CUST7204,Fried Chicken,Fast Food,3,6,18,Card,Austin
+1257,10/01/2025,CUST6522,Pizza,Fast Food,4,8,32,Cash,San Francisco
+1258,22/01/2025,CUST7496,Fried Chicken,Fast Food,5,6,30,UPI,San Francisco
+1259,26/02/2025,CUST9540,Salad,Healthy,4,7,28,UPI,San Francisco
+1260,16/02/2025,CUST4747,Burger,Fast Food,5,5,25,Card,New York
+1261,14/03/2025,CUST7431,Fried Chicken,Fast Food,2,6,12,Card,Boston
+1262,12/02/2025,CUST4717,Burrito,Mexican,2,7,14,UPI,Boston
+1263,02/02/2025,CUST2997,Burger,Fast Food,4,5,20,Card,New York
+1264,17/01/2025,CUST9921,Sandwich,Vegetarian,5,4.5,22.5,UPI,San Francisco
+1265,27/03/2025,CUST4539,Sushi,Japanese,3,12,36,Cash,Austin
+1266,13/03/2025,CUST4714,Burrito,Mexican,5,7,35,UPI,Austin
+1267,07/02/2025,CUST1586,Ramen,Japanese,2,11,22,Cash,Austin
+1268,08/01/2025,CUST2981,Pasta,Italian,5,9,45,Cash,Austin
+1269,18/03/2025,CUST5191,Tacos,Mexican,2,3,6,Cash,New York
+1270,29/03/2025,CUST3353,Pizza,Fast Food,2,8,16,Card,Austin
+1271,12/01/2025,CUST2091,Pizza,Fast Food,2,8,16,Card,Chicago
+1272,03/02/2025,CUST4357,Pizza,Fast Food,3,8,24,Card,San Francisco
+1273,11/01/2025,CUST7473,Burger,Fast Food,2,5,10,Cash,New York
+1274,29/01/2025,CUST8359,Fried Chicken,Fast Food,2,6,12,Cash,Austin
+1275,19/02/2025,CUST1524,Pasta,Italian,5,9,45,Card,Chicago
+1276,10/03/2025,CUST3796,Sushi,Japanese,1,12,12,Cash,New York
+1277,10/01/2025,CUST8258,Sandwich,Vegetarian,5,4.5,22.5,Card,San Francisco
+1278,05/02/2025,CUST7767,Fried Chicken,Fast Food,1,6,6,UPI,San Francisco
+1279,07/02/2025,CUST2414,Salad,Healthy,4,7,28,Cash,Boston
+1280,21/01/2025,CUST1466,Pizza,Fast Food,2,8,16,Card,San Francisco
+1281,29/03/2025,CUST9481,Burger,Fast Food,2,5,10,UPI,Boston
+1282,22/03/2025,CUST6691,Tacos,Mexican,1,3,3,Cash,Chicago
+1283,17/01/2025,CUST3875,Fried Chicken,Fast Food,1,6,6,Card,New York
+1284,10/02/2025,CUST5922,Burger,Fast Food,3,5,15,Cash,San Francisco
+1285,23/02/2025,CUST2521,Burger,Fast Food,3,5,15,Cash,San Francisco
+1286,24/01/2025,CUST8445,Tacos,Mexican,2,3,6,UPI,Austin
+1287,03/01/2025,CUST1527,Fried Chicken,Fast Food,4,6,24,Cash,San Francisco
+1288,16/02/2025,CUST2481,Burger,Fast Food,2,5,10,UPI,Chicago
+1289,17/02/2025,CUST5067,Fried Chicken,Fast Food,4,6,24,Card,Chicago
+1290,17/02/2025,CUST6950,Pasta,Italian,4,9,36,UPI,Austin
+1291,22/01/2025,CUST3267,Ramen,Japanese,1,11,11,Card,New York
+1292,07/02/2025,CUST9678,Pizza,Fast Food,5,8,40,Cash,Chicago
+1293,24/03/2025,CUST5336,Salad,Healthy,2,7,14,Cash,San Francisco
+1294,09/02/2025,CUST5871,Fried Chicken,Fast Food,2,6,12,UPI,Chicago
+1295,31/03/2025,CUST4532,Fried Chicken,Fast Food,5,6,30,Cash,San Francisco
+1296,19/02/2025,CUST9585,Sandwich,Vegetarian,3,4.5,13.5,Card,Chicago
+1297,08/02/2025,CUST3187,Sandwich,Vegetarian,2,4.5,9,Cash,Chicago
+1298,31/01/2025,CUST1931,Sushi,Japanese,4,12,48,UPI,New York
+1299,11/01/2025,CUST1189,Pizza,Fast Food,4,8,32,Card,New York
+1300,13/01/2025,CUST9762,Sushi,Japanese,5,12,60,Cash,Boston
+1301,02/01/2025,CUST8319,Pizza,Fast Food,3,8,24,Cash,Chicago
+1302,07/01/2025,CUST6169,Sandwich,Vegetarian,5,4.5,22.5,UPI,Chicago
+1303,14/02/2025,CUST4781,Sandwich,Vegetarian,1,4.5,4.5,Cash,New York
+1304,29/03/2025,CUST7821,Sushi,Japanese,3,12,36,Cash,Boston
+1305,28/01/2025,CUST7855,Ramen,Japanese,4,11,44,Card,San Francisco
+1306,15/03/2025,CUST1286,Sandwich,Vegetarian,2,4.5,9,UPI,Boston
+1307,01/01/2025,CUST4229,Burrito,Mexican,5,7,35,Card,Chicago
+1308,18/03/2025,CUST1468,Pizza,Fast Food,1,8,8,Cash,Austin
+1309,28/01/2025,CUST2580,Burger,Fast Food,5,5,25,Card,Austin
+1310,22/03/2025,CUST8276,Burger,Fast Food,3,5,15,Cash,Austin
+1311,23/01/2025,CUST6669,Pasta,Italian,5,9,45,UPI,Austin
+1312,25/01/2025,CUST8662,Burger,Fast Food,5,5,25,Card,Chicago
+1313,14/02/2025,CUST7489,Pasta,Italian,1,9,9,Card,Chicago
+1314,20/02/2025,CUST8599,Pizza,Fast Food,2,8,16,UPI,Boston
+1315,15/03/2025,CUST5800,Burrito,Mexican,2,7,14,Cash,Chicago
+1316,01/01/2025,CUST1805,Burger,Fast Food,1,5,5,UPI,Austin
+1317,27/03/2025,CUST2932,Salad,Healthy,1,7,7,Card,New York
+1318,14/01/2025,CUST1553,Fried Chicken,Fast Food,1,6,6,Card,Boston
+1319,21/03/2025,CUST9964,Pasta,Italian,4,9,36,Card,Austin
+1320,20/03/2025,CUST2733,Tacos,Mexican,3,3,9,Cash,San Francisco
+1321,02/03/2025,CUST1520,Salad,Healthy,5,7,35,UPI,Austin
+1322,01/03/2025,CUST2097,Burrito,Mexican,2,7,14,Cash,Austin
+1323,11/02/2025,CUST6919,Pasta,Italian,2,9,18,UPI,Chicago
+1324,02/01/2025,CUST2000,Fried Chicken,Fast Food,4,6,24,UPI,San Francisco
+1325,09/01/2025,CUST1465,Pizza,Fast Food,5,8,40,Cash,Boston
+1326,21/03/2025,CUST2787,Burger,Fast Food,2,5,10,Card,Austin
+1327,04/01/2025,CUST3476,Sandwich,Vegetarian,1,4.5,4.5,UPI,Boston
+1328,11/03/2025,CUST6776,Fried Chicken,Fast Food,3,6,18,Card,Chicago
+1329,24/02/2025,CUST6716,Fried Chicken,Fast Food,1,6,6,Cash,New York
+1330,04/03/2025,CUST4914,Ramen,Japanese,1,11,11,Card,Boston
+1331,12/02/2025,CUST4567,Sandwich,Vegetarian,4,4.5,18,Cash,San Francisco
+1332,19/03/2025,CUST5964,Fried Chicken,Fast Food,3,6,18,Card,New York
+1333,31/01/2025,CUST5340,Sushi,Japanese,2,12,24,UPI,Chicago
+1334,04/03/2025,CUST7761,Sandwich,Vegetarian,2,4.5,9,Card,New York
+1335,10/01/2025,CUST6862,Ramen,Japanese,3,11,33,UPI,New York
+1336,06/03/2025,CUST7299,Sushi,Japanese,1,12,12,Card,Austin
+1337,04/02/2025,CUST2551,Fried Chicken,Fast Food,1,6,6,Cash,Chicago
+1338,19/01/2025,CUST9900,Sandwich,Vegetarian,5,4.5,22.5,UPI,San Francisco
+1339,10/01/2025,CUST3590,Pizza,Fast Food,4,8,32,UPI,San Francisco
+1340,12/03/2025,CUST5177,Salad,Healthy,2,7,14,Card,Chicago
+1341,13/02/2025,CUST5153,Pasta,Italian,5,9,45,UPI,San Francisco
+1342,26/03/2025,CUST3141,Tacos,Mexican,5,3,15,UPI,Austin
+1343,09/03/2025,CUST3018,Sushi,Japanese,4,12,48,Cash,Austin
+1344,15/02/2025,CUST8285,Sandwich,Vegetarian,4,4.5,18,Card,New York
+1345,13/03/2025,CUST3432,Salad,Healthy,2,7,14,Cash,Boston
+1346,19/02/2025,CUST1751,Sandwich,Vegetarian,3,4.5,13.5,Card,Boston
+1347,01/02/2025,CUST2854,Sandwich,Vegetarian,1,4.5,4.5,UPI,Chicago
+1348,07/02/2025,CUST4605,Ramen,Japanese,1,11,11,Card,San Francisco
+1349,23/03/2025,CUST7889,Sushi,Japanese,4,12,48,UPI,New York
+1350,09/03/2025,CUST4718,Fried Chicken,Fast Food,4,6,24,Cash,New York
+1351,28/01/2025,CUST7961,Burger,Fast Food,3,5,15,Cash,Austin
+1352,09/03/2025,CUST5547,Fried Chicken,Fast Food,4,6,24,UPI,Boston
+1353,30/01/2025,CUST6360,Burger,Fast Food,2,5,10,Cash,Chicago
+1354,21/03/2025,CUST5954,Sushi,Japanese,1,12,12,Card,Austin
+1355,15/01/2025,CUST2068,Salad,Healthy,2,7,14,Card,Chicago
+1356,04/02/2025,CUST3146,Burger,Fast Food,4,5,20,UPI,Austin
+1357,26/01/2025,CUST1508,Tacos,Mexican,3,3,9,Card,New York
+1358,24/01/2025,CUST1288,Ramen,Japanese,5,11,55,UPI,Chicago
+1359,19/02/2025,CUST9386,Pizza,Fast Food,4,8,32,Card,Austin
+1360,19/02/2025,CUST5260,Sandwich,Vegetarian,3,4.5,13.5,UPI,Boston
+1361,20/01/2025,CUST7470,Pizza,Fast Food,1,8,8,Cash,San Francisco
+1362,26/03/2025,CUST1524,Tacos,Mexican,1,3,3,Card,Boston
+1363,03/01/2025,CUST2021,Burger,Fast Food,1,5,5,Cash,San Francisco
+1364,17/02/2025,CUST2394,Sandwich,Vegetarian,4,4.5,18,Cash,Austin
+1365,03/03/2025,CUST4963,Sandwich,Vegetarian,1,4.5,4.5,Card,Boston
+1366,15/01/2025,CUST8404,Tacos,Mexican,4,3,12,Card,Chicago
+1367,18/01/2025,CUST3819,Sandwich,Vegetarian,3,4.5,13.5,Cash,San Francisco
+1368,05/01/2025,CUST6921,Ramen,Japanese,4,11,44,Cash,Chicago
+1369,22/02/2025,CUST1198,Sushi,Japanese,4,12,48,Card,San Francisco
+1370,07/03/2025,CUST6953,Pizza,Fast Food,2,8,16,Cash,New York
+1371,22/03/2025,CUST3949,Pizza,Fast Food,4,8,32,UPI,Austin
+1372,09/03/2025,CUST7649,Fried Chicken,Fast Food,5,6,30,Cash,San Francisco
+1373,02/03/2025,CUST9877,Salad,Healthy,2,7,14,UPI,San Francisco
+1374,07/01/2025,CUST2374,Sushi,Japanese,4,12,48,Cash,Chicago
+1375,17/02/2025,CUST6104,Fried Chicken,Fast Food,1,6,6,Cash,San Francisco
+1376,03/01/2025,CUST5917,Salad,Healthy,3,7,21,UPI,Austin
+1377,16/01/2025,CUST9718,Sandwich,Vegetarian,3,4.5,13.5,Cash,Boston
+1378,19/03/2025,CUST8478,Pasta,Italian,1,9,9,Cash,Austin
+1379,27/02/2025,CUST5645,Pizza,Fast Food,3,8,24,Card,Chicago
+1380,03/01/2025,CUST7358,Fried Chicken,Fast Food,4,6,24,Card,Chicago
+1381,14/01/2025,CUST6904,Salad,Healthy,1,7,7,UPI,Austin
+1382,30/01/2025,CUST1758,Sushi,Japanese,2,12,24,Cash,New York
+1383,28/01/2025,CUST5697,Sushi,Japanese,2,12,24,Card,San Francisco
+1384,15/02/2025,CUST3199,Sushi,Japanese,1,12,12,UPI,San Francisco
+1385,18/01/2025,CUST1389,Sandwich,Vegetarian,5,4.5,22.5,Card,Boston
+1386,08/01/2025,CUST1505,Ramen,Japanese,2,11,22,Cash,Chicago
+1387,26/02/2025,CUST4405,Tacos,Mexican,5,3,15,Cash,New York
+1388,03/02/2025,CUST6090,Sandwich,Vegetarian,2,4.5,9,UPI,New York
+1389,26/03/2025,CUST1810,Ramen,Japanese,3,11,33,Cash,Boston
+1390,01/04/2025,CUST8914,Ramen,Japanese,4,11,44,Card,San Francisco
+1391,01/04/2025,CUST6330,Sushi,Japanese,4,12,48,UPI,San Francisco
+1392,23/01/2025,CUST6947,Tacos,Mexican,4,3,12,Cash,Chicago
+1393,15/02/2025,CUST5836,Sandwich,Vegetarian,1,4.5,4.5,Cash,New York
+1394,24/01/2025,CUST5224,Pizza,Fast Food,1,8,8,Card,Chicago
+1395,02/02/2025,CUST4064,Tacos,Mexican,2,3,6,Card,Chicago
+1396,23/02/2025,CUST6353,Salad,Healthy,4,7,28,Cash,Chicago
+1397,02/03/2025,CUST5476,Sushi,Japanese,4,12,48,UPI,Boston
+1398,26/03/2025,CUST7205,Sandwich,Vegetarian,4,4.5,18,UPI,San Francisco
+1399,31/01/2025,CUST9663,Fried Chicken,Fast Food,3,6,18,UPI,Austin
+1400,01/01/2025,CUST7245,Sushi,Japanese,2,12,24,UPI,Chicago
+1401,10/03/2025,CUST3749,Pasta,Italian,5,9,45,Card,San Francisco
+1402,22/02/2025,CUST8840,Salad,Healthy,3,7,21,Cash,San Francisco
+1403,27/02/2025,CUST1094,Salad,Healthy,1,7,7,UPI,New York
+1404,02/02/2025,CUST6543,Pizza,Fast Food,5,8,40,Card,San Francisco
+1405,14/02/2025,CUST3619,Pasta,Italian,4,9,36,Card,Austin
+1406,02/01/2025,CUST5779,Pizza,Fast Food,3,8,24,Cash,Chicago
+1407,14/03/2025,CUST9695,Sushi,Japanese,1,12,12,Cash,San Francisco
+1408,15/02/2025,CUST7113,Ramen,Japanese,2,11,22,Cash,San Francisco
+1409,14/01/2025,CUST8981,Ramen,Japanese,3,11,33,UPI,Chicago
+1410,19/01/2025,CUST3968,Pasta,Italian,4,9,36,Cash,Boston
+1411,20/03/2025,CUST7032,Burrito,Mexican,2,7,14,Card,Austin
+1412,30/03/2025,CUST1457,Tacos,Mexican,2,3,6,Cash,Austin
+1413,21/02/2025,CUST7500,Fried Chicken,Fast Food,2,6,12,Cash,Boston
+1414,11/01/2025,CUST9099,Sandwich,Vegetarian,5,4.5,22.5,Cash,New York
+1415,20/02/2025,CUST6851,Salad,Healthy,3,7,21,UPI,Boston
+1416,09/02/2025,CUST1622,Ramen,Japanese,3,11,33,UPI,Chicago
+1417,24/03/2025,CUST8477,Burger,Fast Food,2,5,10,UPI,Boston
+1418,20/01/2025,CUST2132,Burrito,Mexican,2,7,14,Card,Boston
+1419,27/01/2025,CUST1943,Fried Chicken,Fast Food,2,6,12,UPI,San Francisco
+1420,12/02/2025,CUST3667,Salad,Healthy,1,7,7,Cash,Boston
+1421,12/02/2025,CUST7497,Sandwich,Vegetarian,3,4.5,13.5,Cash,New York
+1422,09/01/2025,CUST3512,Salad,Healthy,3,7,21,Cash,Chicago
+1423,13/03/2025,CUST7241,Burrito,Mexican,5,7,35,UPI,Chicago
+1424,08/02/2025,CUST7442,Sushi,Japanese,1,12,12,Card,Boston
+1425,12/02/2025,CUST5711,Salad,Healthy,2,7,14,UPI,Chicago
+1426,13/03/2025,CUST4149,Burger,Fast Food,3,5,15,Cash,Austin
+1427,22/02/2025,CUST6603,Fried Chicken,Fast Food,1,6,6,Cash,San Francisco
+1428,03/03/2025,CUST5992,Pasta,Italian,5,9,45,Card,Chicago
+1429,30/01/2025,CUST2460,Pasta,Italian,2,9,18,Cash,New York
+1430,23/01/2025,CUST3687,Sushi,Japanese,3,12,36,Card,San Francisco
+1431,20/02/2025,CUST8894,Burger,Fast Food,1,5,5,Cash,Chicago
+1432,14/03/2025,CUST1687,Salad,Healthy,3,7,21,Card,Boston
+1433,02/01/2025,CUST1623,Pasta,Italian,3,9,27,UPI,Boston
+1434,14/01/2025,CUST2337,Fried Chicken,Fast Food,1,6,6,UPI,San Francisco
+1435,13/03/2025,CUST6072,Burger,Fast Food,1,5,5,UPI,Boston
+1436,25/02/2025,CUST9728,Sushi,Japanese,5,12,60,Card,Austin
+1437,02/02/2025,CUST1491,Pizza,Fast Food,5,8,40,Card,Austin
+1438,18/02/2025,CUST2027,Fried Chicken,Fast Food,2,6,12,Card,Boston
+1439,03/01/2025,CUST8538,Pizza,Fast Food,2,8,16,Cash,New York
+1440,11/03/2025,CUST6199,Sandwich,Vegetarian,4,4.5,18,UPI,Austin
+1441,09/03/2025,CUST1801,Burger,Fast Food,2,5,10,Cash,New York
+1442,31/01/2025,CUST2220,Tacos,Mexican,5,3,15,Cash,Austin
+1443,03/02/2025,CUST8408,Pizza,Fast Food,1,8,8,Cash,Boston
+1444,07/03/2025,CUST1790,Salad,Healthy,2,7,14,UPI,San Francisco
+1445,24/03/2025,CUST2518,Sushi,Japanese,1,12,12,UPI,Chicago
+1446,11/03/2025,CUST8805,Tacos,Mexican,5,3,15,UPI,New York
+1447,14/02/2025,CUST9098,Sushi,Japanese,4,12,48,UPI,Boston
+1448,10/02/2025,CUST9267,Tacos,Mexican,5,3,15,UPI,Austin
+1449,11/02/2025,CUST4194,Burrito,Mexican,4,7,28,UPI,Austin
+1450,27/02/2025,CUST6977,Tacos,Mexican,3,3,9,Cash,Austin
+1451,20/03/2025,CUST7376,Sushi,Japanese,3,12,36,UPI,Chicago
+1452,04/02/2025,CUST7965,Tacos,Mexican,5,3,15,Cash,San Francisco
+1453,18/03/2025,CUST4399,Salad,Healthy,4,7,28,UPI,Austin
+1454,02/01/2025,CUST1677,Burger,Fast Food,1,5,5,UPI,Austin
+1455,26/01/2025,CUST6127,Sandwich,Vegetarian,5,4.5,22.5,UPI,Chicago
+1456,03/02/2025,CUST3097,Tacos,Mexican,1,3,3,Cash,Chicago
+1457,01/04/2025,CUST3203,Tacos,Mexican,4,3,12,Cash,New York
+1458,22/03/2025,CUST9580,Fried Chicken,Fast Food,2,6,12,UPI,Boston
+1459,09/03/2025,CUST8825,Fried Chicken,Fast Food,1,6,6,Cash,San Francisco
+1460,23/02/2025,CUST2891,Ramen,Japanese,5,11,55,Card,New York
+1461,12/03/2025,CUST2630,Burger,Fast Food,1,5,5,Card,San Francisco
+1462,11/03/2025,CUST1647,Pasta,Italian,1,9,9,Card,San Francisco
+1463,11/01/2025,CUST9433,Sandwich,Vegetarian,2,4.5,9,Cash,Boston
+1464,04/03/2025,CUST7729,Fried Chicken,Fast Food,2,6,12,Card,San Francisco
+1465,16/03/2025,CUST6400,Fried Chicken,Fast Food,4,6,24,Cash,San Francisco
+1466,05/01/2025,CUST7245,Burrito,Mexican,4,7,28,UPI,Austin
+1467,15/01/2025,CUST7603,Burger,Fast Food,2,5,10,UPI,New York
+1468,15/02/2025,CUST6974,Pizza,Fast Food,1,8,8,Cash,Boston
+1469,28/03/2025,CUST6933,Burger,Fast Food,3,5,15,UPI,Austin
+1470,09/03/2025,CUST2092,Fried Chicken,Fast Food,2,6,12,Card,Boston
+1471,28/02/2025,CUST7045,Sushi,Japanese,5,12,60,Card,San Francisco
+1472,21/03/2025,CUST5010,Fried Chicken,Fast Food,2,6,12,Cash,Chicago
+1473,02/02/2025,CUST8740,Sushi,Japanese,5,12,60,Cash,Chicago
+1474,15/01/2025,CUST4339,Pizza,Fast Food,1,8,8,Card,New York
+1475,20/01/2025,CUST9533,Sandwich,Vegetarian,4,4.5,18,Card,New York
+1476,28/02/2025,CUST3798,Sandwich,Vegetarian,1,4.5,4.5,UPI,Chicago
+1477,15/01/2025,CUST8614,Fried Chicken,Fast Food,4,6,24,Cash,Austin
+1478,12/01/2025,CUST4625,Fried Chicken,Fast Food,2,6,12,Cash,Boston
+1479,10/02/2025,CUST6803,Burrito,Mexican,1,7,7,Card,San Francisco
+1480,27/02/2025,CUST6365,Fried Chicken,Fast Food,1,6,6,Card,Boston
+1481,29/01/2025,CUST1744,Tacos,Mexican,3,3,9,Card,Austin
+1482,20/01/2025,CUST9053,Burrito,Mexican,2,7,14,Cash,Austin
+1483,20/03/2025,CUST9754,Burrito,Mexican,5,7,35,Cash,New York
+1484,06/03/2025,CUST2135,Burrito,Mexican,2,7,14,Cash,San Francisco
+1485,14/01/2025,CUST2892,Sandwich,Vegetarian,1,4.5,4.5,Card,San Francisco
+1486,20/01/2025,CUST8706,Fried Chicken,Fast Food,2,6,12,UPI,San Francisco
+1487,03/02/2025,CUST6488,Sushi,Japanese,4,12,48,Card,Austin
+1488,09/02/2025,CUST5175,Burrito,Mexican,2,7,14,UPI,Chicago
+1489,01/03/2025,CUST8151,Fried Chicken,Fast Food,1,6,6,Cash,Chicago
+1490,16/01/2025,CUST2324,Salad,Healthy,4,7,28,UPI,Chicago
+1491,21/01/2025,CUST6856,Burrito,Mexican,3,7,21,UPI,Boston
+1492,01/03/2025,CUST1172,Sandwich,Vegetarian,1,4.5,4.5,Card,Boston
+1493,28/03/2025,CUST2214,Salad,Healthy,2,7,14,UPI,San Francisco
+1494,18/02/2025,CUST6182,Pasta,Italian,5,9,45,Cash,New York
+1495,16/01/2025,CUST7448,Sandwich,Vegetarian,4,4.5,18,UPI,New York
+1496,15/01/2025,CUST5514,Sandwich,Vegetarian,3,4.5,13.5,Cash,Austin
+1497,31/01/2025,CUST3016,Burger,Fast Food,5,5,25,Card,Boston
+1498,19/02/2025,CUST1736,Sushi,Japanese,3,12,36,UPI,Chicago
+1499,27/01/2025,CUST5257,Sandwich,Vegetarian,2,4.5,9,Cash,Austin
+1500,03/01/2025,CUST7502,Fried Chicken,Fast Food,1,6,6,UPI,Austin
+1501,09/01/2025,CUST5019,Fried Chicken,Fast Food,3,6,18,Card,New York
+1502,27/03/2025,CUST4005,Fried Chicken,Fast Food,3,6,18,UPI,Austin
+1503,29/03/2025,CUST9197,Fried Chicken,Fast Food,4,6,24,Cash,Chicago
+1504,27/02/2025,CUST9060,Sandwich,Vegetarian,2,4.5,9,Card,Chicago
+1505,01/01/2025,CUST4989,Ramen,Japanese,3,11,33,UPI,Boston
+1506,08/01/2025,CUST4271,Pasta,Italian,1,9,9,Cash,Austin
+1507,20/02/2025,CUST2983,Salad,Healthy,2,7,14,UPI,New York
+1508,21/01/2025,CUST9581,Sushi,Japanese,3,12,36,Cash,Austin
+1509,04/02/2025,CUST3891,Fried Chicken,Fast Food,5,6,30,UPI,San Francisco
+1510,21/01/2025,CUST9205,Pizza,Fast Food,2,8,16,Card,New York
+1511,22/03/2025,CUST4787,Pizza,Fast Food,1,8,8,Cash,New York
+1512,05/01/2025,CUST4785,Sandwich,Vegetarian,2,4.5,9,Card,Chicago
+1513,30/03/2025,CUST8691,Salad,Healthy,1,7,7,UPI,San Francisco
+1514,01/03/2025,CUST7793,Burger,Fast Food,1,5,5,Cash,Chicago
+1515,17/03/2025,CUST5048,Sandwich,Vegetarian,2,4.5,9,Card,Boston
+1516,23/03/2025,CUST3999,Pasta,Italian,4,9,36,UPI,Chicago
+1517,24/02/2025,CUST7221,Fried Chicken,Fast Food,3,6,18,UPI,Austin
+1518,08/02/2025,CUST3169,Salad,Healthy,4,7,28,Cash,Chicago
+1519,26/01/2025,CUST9171,Sushi,Japanese,4,12,48,UPI,New York
+1520,26/02/2025,CUST2296,Tacos,Mexican,5,3,15,UPI,Chicago
+1521,23/02/2025,CUST2304,Pizza,Fast Food,4,8,32,UPI,Austin
+1522,04/03/2025,CUST7997,Pizza,Fast Food,2,8,16,Cash,Austin
+1523,25/03/2025,CUST6267,Pizza,Fast Food,3,8,24,Card,New York
+1524,10/03/2025,CUST8408,Sandwich,Vegetarian,4,4.5,18,Cash,New York
+1525,27/03/2025,CUST6610,Burrito,Mexican,4,7,28,Cash,Boston
+1526,06/02/2025,CUST8100,Salad,Healthy,5,7,35,UPI,San Francisco
+1527,04/01/2025,CUST3688,Fried Chicken,Fast Food,1,6,6,Card,New York
+1528,08/02/2025,CUST6871,Sushi,Japanese,4,12,48,Cash,Boston
+1529,06/03/2025,CUST1737,Burger,Fast Food,1,5,5,Cash,Chicago
+1530,16/01/2025,CUST9691,Sandwich,Vegetarian,1,4.5,4.5,Card,New York
+1531,12/02/2025,CUST1671,Tacos,Mexican,3,3,9,Card,Chicago
+1532,01/04/2025,CUST5476,Salad,Healthy,1,7,7,Card,Austin
+1533,08/01/2025,CUST8264,Fried Chicken,Fast Food,2,6,12,Card,San Francisco
+1534,03/03/2025,CUST1129,Burrito,Mexican,2,7,14,UPI,Austin
+1535,02/01/2025,CUST1305,Pasta,Italian,3,9,27,Cash,Boston
+1536,10/01/2025,CUST3684,Salad,Healthy,2,7,14,Cash,Boston
+1537,03/02/2025,CUST1807,Sandwich,Vegetarian,4,4.5,18,UPI,San Francisco
+1538,15/02/2025,CUST4616,Pizza,Fast Food,1,8,8,Cash,Boston
+1539,28/01/2025,CUST2859,Pasta,Italian,3,9,27,UPI,Chicago
+1540,27/03/2025,CUST4366,Sushi,Japanese,1,12,12,Cash,Boston
+1541,11/03/2025,CUST8424,Sushi,Japanese,1,12,12,Card,New York
+1542,26/02/2025,CUST2806,Tacos,Mexican,2,3,6,Cash,Boston
+1543,06/01/2025,CUST8618,Burger,Fast Food,3,5,15,Cash,New York
+1544,12/03/2025,CUST1913,Sandwich,Vegetarian,5,4.5,22.5,Card,Chicago
+1545,22/02/2025,CUST1939,Salad,Healthy,5,7,35,Card,Boston
+1546,14/01/2025,CUST1553,Ramen,Japanese,5,11,55,UPI,Austin
+1547,13/03/2025,CUST4323,Burger,Fast Food,2,5,10,UPI,Boston
+1548,06/01/2025,CUST1034,Pizza,Fast Food,1,8,8,UPI,Austin
+1549,30/01/2025,CUST7080,Burrito,Mexican,3,7,21,Card,Austin
+1550,22/03/2025,CUST8493,Fried Chicken,Fast Food,4,6,24,Cash,San Francisco
+1551,19/02/2025,CUST4332,Salad,Healthy,1,7,7,Cash,San Francisco
+1552,12/03/2025,CUST2447,Tacos,Mexican,5,3,15,UPI,Boston
+1553,05/01/2025,CUST2267,Burger,Fast Food,4,5,20,Cash,Austin
+1554,24/01/2025,CUST8871,Salad,Healthy,2,7,14,UPI,Austin
+1555,12/03/2025,CUST8418,Burger,Fast Food,3,5,15,Card,Boston
+1556,16/01/2025,CUST1281,Burrito,Mexican,4,7,28,Cash,Chicago
+1557,18/01/2025,CUST8900,Ramen,Japanese,3,11,33,Card,San Francisco
+1558,23/02/2025,CUST4799,Sushi,Japanese,1,12,12,UPI,Boston
+1559,26/01/2025,CUST3689,Fried Chicken,Fast Food,4,6,24,Cash,Chicago
+1560,18/03/2025,CUST6707,Sushi,Japanese,3,12,36,Card,Chicago
+1561,20/02/2025,CUST7083,Fried Chicken,Fast Food,2,6,12,Cash,Chicago
+1562,17/01/2025,CUST3030,Tacos,Mexican,4,3,12,Cash,New York
+1563,14/01/2025,CUST8286,Sushi,Japanese,2,12,24,UPI,Boston
+1564,04/02/2025,CUST7508,Sushi,Japanese,2,12,24,UPI,Boston
+1565,25/02/2025,CUST2634,Sushi,Japanese,4,12,48,UPI,Boston
+1566,09/02/2025,CUST6237,Fried Chicken,Fast Food,2,6,12,Card,Boston
+1567,01/04/2025,CUST5508,Pizza,Fast Food,2,8,16,Card,Boston
+1568,20/01/2025,CUST5284,Burger,Fast Food,1,5,5,UPI,Boston
+1569,18/03/2025,CUST1487,Burrito,Mexican,1,7,7,Card,San Francisco
+1570,10/02/2025,CUST3349,Pasta,Italian,2,9,18,UPI,Boston
+1571,14/03/2025,CUST3227,Sushi,Japanese,3,12,36,Cash,Austin
+1572,18/03/2025,CUST9799,Tacos,Mexican,4,3,12,UPI,Boston
+1573,31/01/2025,CUST4004,Fried Chicken,Fast Food,3,6,18,Card,San Francisco
+1574,25/02/2025,CUST6407,Ramen,Japanese,2,11,22,Card,New York
+1575,21/01/2025,CUST9630,Ramen,Japanese,3,11,33,UPI,San Francisco
+1576,23/02/2025,CUST5052,Sushi,Japanese,4,12,48,UPI,Austin
+1577,24/02/2025,CUST3709,Tacos,Mexican,4,3,12,Card,Chicago
+1578,30/03/2025,CUST3778,Burrito,Mexican,1,7,7,Cash,Boston
+1579,24/01/2025,CUST2630,Sushi,Japanese,3,12,36,Cash,New York
+1580,21/03/2025,CUST4142,Pasta,Italian,2,9,18,UPI,Chicago
+1581,11/01/2025,CUST9322,Burrito,Mexican,1,7,7,Cash,San Francisco
+1582,02/01/2025,CUST8650,Burger,Fast Food,4,5,20,Card,Chicago
+1583,28/02/2025,CUST1111,Pasta,Italian,1,9,9,Card,Austin
+1584,23/03/2025,CUST5209,Tacos,Mexican,2,3,6,Cash,Austin
+1585,29/03/2025,CUST1212,Burger,Fast Food,4,5,20,UPI,New York
+1586,29/01/2025,CUST2898,Ramen,Japanese,1,11,11,Card,Chicago
+1587,31/03/2025,CUST6499,Pasta,Italian,2,9,18,UPI,Boston
+1588,01/01/2025,CUST3579,Fried Chicken,Fast Food,4,6,24,Cash,San Francisco
+1589,02/03/2025,CUST3349,Ramen,Japanese,5,11,55,Cash,San Francisco
+1590,16/02/2025,CUST5941,Pizza,Fast Food,1,8,8,Cash,Chicago
+1591,10/03/2025,CUST7926,Fried Chicken,Fast Food,5,6,30,Cash,San Francisco
+1592,05/03/2025,CUST6111,Ramen,Japanese,5,11,55,UPI,San Francisco
+1593,01/03/2025,CUST3702,Tacos,Mexican,3,3,9,UPI,Chicago
+1594,27/01/2025,CUST1710,Burger,Fast Food,1,5,5,UPI,Chicago
+1595,27/02/2025,CUST3235,Burrito,Mexican,3,7,21,Cash,Boston
+1596,11/02/2025,CUST9980,Salad,Healthy,5,7,35,Cash,Austin
+1597,20/03/2025,CUST5752,Sandwich,Vegetarian,5,4.5,22.5,Card,San Francisco
+1598,12/03/2025,CUST1226,Burrito,Mexican,1,7,7,Card,Boston
+1599,30/01/2025,CUST1521,Burger,Fast Food,3,5,15,Cash,Austin
+1600,16/03/2025,CUST5550,Burger,Fast Food,4,5,20,UPI,Austin
+1601,18/02/2025,CUST8928,Sandwich,Vegetarian,5,4.5,22.5,UPI,Chicago
+1602,02/03/2025,CUST5058,Ramen,Japanese,2,11,22,UPI,New York
+1603,19/02/2025,CUST8124,Sushi,Japanese,1,12,12,Card,San Francisco
+1604,16/01/2025,CUST6093,Salad,Healthy,3,7,21,Card,Boston
+1605,08/03/2025,CUST4247,Salad,Healthy,5,7,35,Card,New York
+1606,02/02/2025,CUST7102,Sandwich,Vegetarian,4,4.5,18,UPI,Boston
+1607,09/02/2025,CUST8921,Burger,Fast Food,1,5,5,Card,San Francisco
+1608,28/03/2025,CUST5946,Pasta,Italian,4,9,36,UPI,San Francisco
+1609,26/01/2025,CUST4042,Pizza,Fast Food,4,8,32,UPI,Chicago
+1610,02/01/2025,CUST3775,Ramen,Japanese,5,11,55,Cash,Austin
+1611,11/01/2025,CUST9055,Fried Chicken,Fast Food,4,6,24,UPI,Chicago
+1612,12/03/2025,CUST4314,Tacos,Mexican,4,3,12,Cash,Chicago
+1613,02/01/2025,CUST2227,Pizza,Fast Food,5,8,40,UPI,Austin
+1614,20/03/2025,CUST7509,Salad,Healthy,2,7,14,Card,Boston
+1615,20/01/2025,CUST3143,Tacos,Mexican,3,3,9,Card,Boston
+1616,14/01/2025,CUST5009,Sushi,Japanese,1,12,12,Cash,New York
+1617,17/02/2025,CUST2963,Tacos,Mexican,2,3,6,Card,New York
+1618,04/01/2025,CUST6122,Burrito,Mexican,1,7,7,UPI,San Francisco
+1619,01/02/2025,CUST4218,Sushi,Japanese,3,12,36,Cash,San Francisco
+1620,22/02/2025,CUST7532,Salad,Healthy,2,7,14,Card,Chicago
+1621,21/02/2025,CUST7058,Sushi,Japanese,5,12,60,UPI,Austin
+1622,07/03/2025,CUST5973,Fried Chicken,Fast Food,1,6,6,Card,Chicago
+1623,12/03/2025,CUST7463,Tacos,Mexican,3,3,9,Cash,Boston
+1624,06/02/2025,CUST7699,Sushi,Japanese,4,12,48,Cash,San Francisco
+1625,21/02/2025,CUST7553,Fried Chicken,Fast Food,5,6,30,Card,Chicago
+1626,02/03/2025,CUST6512,Sushi,Japanese,2,12,24,UPI,San Francisco
+1627,06/02/2025,CUST3981,Burger,Fast Food,4,5,20,UPI,New York
+1628,06/03/2025,CUST2757,Sushi,Japanese,2,12,24,Card,Chicago
+1629,07/03/2025,CUST8002,Salad,Healthy,5,7,35,Card,San Francisco
+1630,02/02/2025,CUST8365,Burger,Fast Food,5,5,25,Cash,Chicago
+1631,28/02/2025,CUST1813,Salad,Healthy,4,7,28,UPI,Chicago
+1632,22/03/2025,CUST9361,Tacos,Mexican,5,3,15,Cash,Chicago
+1633,29/01/2025,CUST9267,Sandwich,Vegetarian,3,4.5,13.5,Card,Chicago
+1634,01/04/2025,CUST8510,Sushi,Japanese,2,12,24,Card,Austin
+1635,18/03/2025,CUST1884,Pizza,Fast Food,5,8,40,Cash,Austin
+1636,21/03/2025,CUST5209,Fried Chicken,Fast Food,5,6,30,Cash,San Francisco
+1637,01/03/2025,CUST7266,Tacos,Mexican,3,3,9,Cash,Boston
+1638,22/01/2025,CUST3615,Salad,Healthy,3,7,21,Cash,New York
+1639,12/01/2025,CUST4119,Fried Chicken,Fast Food,1,6,6,Cash,San Francisco
+1640,29/01/2025,CUST5887,Pasta,Italian,3,9,27,Card,Chicago
+1641,24/01/2025,CUST3984,Sandwich,Vegetarian,5,4.5,22.5,UPI,Boston
+1642,07/01/2025,CUST6029,Fried Chicken,Fast Food,3,6,18,Card,New York
+1643,10/02/2025,CUST9603,Pizza,Fast Food,3,8,24,Card,Chicago
+1644,04/02/2025,CUST1165,Ramen,Japanese,3,11,33,Cash,Chicago
+1645,04/03/2025,CUST6841,Fried Chicken,Fast Food,1,6,6,Cash,Austin
+1646,27/02/2025,CUST3721,Ramen,Japanese,3,11,33,Card,San Francisco
+1647,20/01/2025,CUST2214,Pasta,Italian,1,9,9,UPI,Chicago
+1648,24/02/2025,CUST4005,Burrito,Mexican,3,7,21,Card,Austin
+1649,13/03/2025,CUST3230,Fried Chicken,Fast Food,1,6,6,UPI,Boston
+1650,01/03/2025,CUST6114,Fried Chicken,Fast Food,3,6,18,UPI,Chicago
+1651,20/03/2025,CUST4961,Fried Chicken,Fast Food,1,6,6,UPI,Austin
+1652,25/03/2025,CUST8531,Sushi,Japanese,2,12,24,Cash,New York
+1653,07/02/2025,CUST5063,Tacos,Mexican,4,3,12,Cash,Boston
+1654,11/03/2025,CUST3848,Pizza,Fast Food,4,8,32,Card,San Francisco
+1655,14/01/2025,CUST4023,Burrito,Mexican,5,7,35,UPI,New York
+1656,15/03/2025,CUST1208,Pasta,Italian,1,9,9,Cash,New York
+1657,22/02/2025,CUST2170,Burger,Fast Food,5,5,25,Cash,Boston
+1658,05/01/2025,CUST4689,Burrito,Mexican,2,7,14,Cash,New York
+1659,31/03/2025,CUST7157,Pizza,Fast Food,2,8,16,Card,New York
+1660,01/03/2025,CUST1364,Fried Chicken,Fast Food,5,6,30,UPI,New York
+1661,28/02/2025,CUST4794,Fried Chicken,Fast Food,2,6,12,Cash,Boston
+1662,25/02/2025,CUST6633,Pizza,Fast Food,3,8,24,Cash,Austin
+1663,27/01/2025,CUST5251,Burger,Fast Food,5,5,25,Cash,Chicago
+1664,07/03/2025,CUST7757,Pizza,Fast Food,1,8,8,Card,San Francisco
+1665,18/02/2025,CUST4227,Pasta,Italian,4,9,36,UPI,Chicago
+1666,16/02/2025,CUST2615,Sushi,Japanese,5,12,60,UPI,New York
+1667,03/01/2025,CUST1579,Fried Chicken,Fast Food,2,6,12,Cash,New York
+1668,11/01/2025,CUST1922,Burrito,Mexican,3,7,21,Cash,New York
+1669,28/03/2025,CUST4270,Fried Chicken,Fast Food,4,6,24,Cash,San Francisco
+1670,19/01/2025,CUST3236,Pizza,Fast Food,3,8,24,Card,Austin
+1671,27/03/2025,CUST8293,Sandwich,Vegetarian,4,4.5,18,Card,Boston
+1672,27/03/2025,CUST8159,Salad,Healthy,5,7,35,Cash,San Francisco
+1673,21/03/2025,CUST9685,Ramen,Japanese,2,11,22,Card,New York
+1674,08/02/2025,CUST1764,Burrito,Mexican,2,7,14,Card,Chicago
+1675,21/01/2025,CUST1019,Pizza,Fast Food,1,8,8,UPI,San Francisco
+1676,13/01/2025,CUST1756,Sushi,Japanese,1,12,12,Card,Boston
+1677,08/01/2025,CUST1140,Burrito,Mexican,1,7,7,Card,Austin
+1678,10/01/2025,CUST7513,Ramen,Japanese,2,11,22,UPI,New York
+1679,28/01/2025,CUST8168,Tacos,Mexican,1,3,3,Cash,Boston
+1680,06/02/2025,CUST8357,Salad,Healthy,3,7,21,UPI,New York
+1681,16/03/2025,CUST9918,Burrito,Mexican,5,7,35,Cash,Boston
+1682,08/03/2025,CUST7039,Pasta,Italian,1,9,9,Card,San Francisco
+1683,13/03/2025,CUST3538,Sandwich,Vegetarian,5,4.5,22.5,Card,New York
+1684,03/01/2025,CUST7129,Ramen,Japanese,3,11,33,Cash,Austin
+1685,23/01/2025,CUST7252,Sandwich,Vegetarian,5,4.5,22.5,UPI,Boston
+1686,13/03/2025,CUST2624,Tacos,Mexican,4,3,12,UPI,Austin
+1687,02/03/2025,CUST4248,Pizza,Fast Food,1,8,8,Cash,Chicago
+1688,09/02/2025,CUST1433,Pizza,Fast Food,2,8,16,UPI,Boston
+1689,30/01/2025,CUST3352,Pasta,Italian,3,9,27,Cash,Boston
+1690,26/03/2025,CUST5729,Pasta,Italian,1,9,9,Card,New York
+1691,07/02/2025,CUST5268,Salad,Healthy,4,7,28,Cash,Chicago
+1692,12/01/2025,CUST8111,Sushi,Japanese,2,12,24,UPI,New York
+1693,01/04/2025,CUST4030,Fried Chicken,Fast Food,4,6,24,Cash,Boston
+1694,10/02/2025,CUST2918,Burrito,Mexican,4,7,28,Cash,New York
+1695,02/02/2025,CUST1948,Fried Chicken,Fast Food,3,6,18,UPI,New York
+1696,12/01/2025,CUST3684,Tacos,Mexican,3,3,9,UPI,Chicago
+1697,06/03/2025,CUST4468,Sushi,Japanese,2,12,24,UPI,San Francisco
+1698,06/01/2025,CUST4255,Ramen,Japanese,2,11,22,Card,New York
+1699,03/03/2025,CUST7589,Sandwich,Vegetarian,4,4.5,18,UPI,Boston
+1700,05/03/2025,CUST5465,Tacos,Mexican,3,3,9,Cash,Chicago
+1701,15/03/2025,CUST7691,Sushi,Japanese,3,12,36,Cash,Boston
+1702,16/03/2025,CUST8549,Ramen,Japanese,2,11,22,Cash,Chicago
+1703,07/02/2025,CUST5830,Sushi,Japanese,4,12,48,UPI,New York
+1704,09/01/2025,CUST6859,Tacos,Mexican,1,3,3,Cash,Chicago
+1705,18/01/2025,CUST4063,Tacos,Mexican,5,3,15,Card,Boston
+1706,11/01/2025,CUST5904,Pasta,Italian,5,9,45,UPI,Chicago
+1707,18/02/2025,CUST6228,Pasta,Italian,3,9,27,Card,San Francisco
+1708,19/01/2025,CUST6874,Burrito,Mexican,4,7,28,Cash,Austin
+1709,09/01/2025,CUST5704,Burrito,Mexican,4,7,28,Card,New York
+1710,24/02/2025,CUST6900,Burrito,Mexican,5,7,35,Card,Boston
+1711,30/03/2025,CUST3969,Salad,Healthy,1,7,7,Cash,New York
+1712,05/02/2025,CUST1281,Salad,Healthy,2,7,14,Cash,Chicago
+1713,04/01/2025,CUST7944,Tacos,Mexican,4,3,12,Cash,Austin
+1714,05/02/2025,CUST4582,Pizza,Fast Food,4,8,32,Card,Boston
+1715,25/02/2025,CUST8050,Tacos,Mexican,4,3,12,UPI,San Francisco
+1716,14/02/2025,CUST7019,Pasta,Italian,4,9,36,Cash,San Francisco
+1717,22/03/2025,CUST5692,Salad,Healthy,3,7,21,Card,Boston
+1718,23/01/2025,CUST9509,Sandwich,Vegetarian,3,4.5,13.5,UPI,New York
+1719,04/02/2025,CUST7093,Fried Chicken,Fast Food,2,6,12,Card,Boston
+1720,31/01/2025,CUST5504,Salad,Healthy,3,7,21,Card,Boston
+1721,15/01/2025,CUST8476,Burger,Fast Food,4,5,20,UPI,San Francisco
+1722,22/02/2025,CUST1800,Pasta,Italian,2,9,18,UPI,New York
+1723,10/03/2025,CUST2757,Salad,Healthy,1,7,7,UPI,Chicago
+1724,27/03/2025,CUST3760,Sandwich,Vegetarian,3,4.5,13.5,Cash,Boston
+1725,24/03/2025,CUST9674,Salad,Healthy,2,7,14,Cash,Chicago
+1726,09/01/2025,CUST1677,Burger,Fast Food,1,5,5,UPI,Austin
+1727,06/03/2025,CUST7581,Burrito,Mexican,1,7,7,UPI,Chicago
+1728,14/02/2025,CUST2407,Fried Chicken,Fast Food,2,6,12,Card,San Francisco
+1729,20/03/2025,CUST4369,Fried Chicken,Fast Food,2,6,12,Cash,New York
+1730,02/03/2025,CUST2749,Pasta,Italian,1,9,9,Card,Austin
+1731,12/02/2025,CUST8303,Pizza,Fast Food,2,8,16,Card,Chicago
+1732,03/02/2025,CUST3882,Pasta,Italian,3,9,27,UPI,Chicago
+1733,24/02/2025,CUST3934,Pizza,Fast Food,2,8,16,Card,Chicago
+1734,04/02/2025,CUST3936,Pasta,Italian,2,9,18,UPI,Boston
+1735,11/01/2025,CUST2070,Pizza,Fast Food,3,8,24,Card,San Francisco
+1736,27/03/2025,CUST1150,Sandwich,Vegetarian,1,4.5,4.5,Cash,San Francisco
+1737,23/03/2025,CUST8901,Pizza,Fast Food,5,8,40,UPI,New York
+1738,22/03/2025,CUST8917,Salad,Healthy,3,7,21,UPI,New York
+1739,02/03/2025,CUST6920,Ramen,Japanese,5,11,55,UPI,New York
+1740,18/02/2025,CUST3924,Burrito,Mexican,2,7,14,UPI,New York
+1741,22/02/2025,CUST7408,Fried Chicken,Fast Food,2,6,12,Card,San Francisco
+1742,05/03/2025,CUST3984,Salad,Healthy,1,7,7,UPI,Boston
+1743,27/03/2025,CUST3500,Salad,Healthy,2,7,14,Cash,San Francisco
+1744,14/03/2025,CUST2177,Pasta,Italian,3,9,27,UPI,San Francisco
+1745,02/01/2025,CUST1676,Fried Chicken,Fast Food,3,6,18,Card,Chicago
+1746,02/02/2025,CUST6749,Tacos,Mexican,4,3,12,Card,San Francisco
+1747,06/03/2025,CUST8232,Sushi,Japanese,4,12,48,Card,Boston
+1748,21/01/2025,CUST7399,Sushi,Japanese,4,12,48,UPI,Boston
+1749,06/03/2025,CUST9132,Sushi,Japanese,1,12,12,UPI,San Francisco
+1750,29/03/2025,CUST4267,Tacos,Mexican,1,3,3,Cash,New York
+1751,01/03/2025,CUST5322,Ramen,Japanese,2,11,22,UPI,Boston
+1752,22/01/2025,CUST7203,Sushi,Japanese,4,12,48,Card,Austin
+1753,30/03/2025,CUST1646,Ramen,Japanese,5,11,55,UPI,Chicago
+1754,01/02/2025,CUST9024,Salad,Healthy,2,7,14,UPI,San Francisco
+1755,26/03/2025,CUST5278,Pizza,Fast Food,2,8,16,Cash,New York
+1756,20/02/2025,CUST7540,Ramen,Japanese,3,11,33,UPI,San Francisco
+1757,10/03/2025,CUST5015,Ramen,Japanese,1,11,11,Cash,Austin
+1758,04/02/2025,CUST5095,Tacos,Mexican,5,3,15,Card,New York
+1759,17/02/2025,CUST9407,Sandwich,Vegetarian,4,4.5,18,UPI,San Francisco
+1760,13/03/2025,CUST6432,Pasta,Italian,5,9,45,Cash,Boston
+1761,13/01/2025,CUST6676,Fried Chicken,Fast Food,1,6,6,Cash,Chicago
+1762,04/01/2025,CUST1888,Sushi,Japanese,5,12,60,UPI,Boston
+1763,01/03/2025,CUST8586,Salad,Healthy,2,7,14,Card,Boston
+1764,22/01/2025,CUST8152,Sandwich,Vegetarian,2,4.5,9,Cash,San Francisco
+1765,01/04/2025,CUST7799,Pizza,Fast Food,4,8,32,Card,Boston
+1766,14/01/2025,CUST4537,Burrito,Mexican,3,7,21,UPI,Chicago
+1767,21/02/2025,CUST3024,Ramen,Japanese,2,11,22,UPI,Chicago
+1768,06/02/2025,CUST5920,Sandwich,Vegetarian,2,4.5,9,Cash,Austin
+1769,16/02/2025,CUST3472,Fried Chicken,Fast Food,3,6,18,UPI,Chicago
+1770,11/03/2025,CUST5800,Salad,Healthy,1,7,7,Card,New York
+1771,02/01/2025,CUST5457,Sandwich,Vegetarian,3,4.5,13.5,Cash,Chicago
+1772,31/01/2025,CUST3912,Sushi,Japanese,3,12,36,UPI,San Francisco
+1773,26/02/2025,CUST8157,Burrito,Mexican,4,7,28,UPI,San Francisco
+1774,10/02/2025,CUST1447,Salad,Healthy,1,7,7,Cash,San Francisco
+1775,14/02/2025,CUST9297,Tacos,Mexican,5,3,15,Cash,New York
+1776,24/03/2025,CUST2791,Burger,Fast Food,3,5,15,Cash,San Francisco
+1777,06/01/2025,CUST2425,Sandwich,Vegetarian,2,4.5,9,Cash,Austin
+1778,21/03/2025,CUST9944,Sushi,Japanese,4,12,48,Card,Boston
+1779,25/01/2025,CUST1321,Ramen,Japanese,2,11,22,Card,Austin
+1780,04/03/2025,CUST4258,Burger,Fast Food,5,5,25,UPI,New York
+1781,25/02/2025,CUST1988,Pasta,Italian,1,9,9,Cash,New York
+1782,12/01/2025,CUST2946,Ramen,Japanese,5,11,55,Card,San Francisco
+1783,23/01/2025,CUST1669,Sushi,Japanese,3,12,36,Cash,Boston
+1784,11/02/2025,CUST8142,Fried Chicken,Fast Food,4,6,24,Cash,Austin
+1785,06/01/2025,CUST3036,Burrito,Mexican,4,7,28,Cash,New York
+1786,27/02/2025,CUST4032,Salad,Healthy,3,7,21,Cash,San Francisco
+1787,08/01/2025,CUST6221,Tacos,Mexican,3,3,9,Card,Boston
+1788,01/04/2025,CUST2776,Burger,Fast Food,5,5,25,Cash,San Francisco
+1789,26/01/2025,CUST3594,Burger,Fast Food,5,5,25,Card,New York
+1790,07/02/2025,CUST9318,Fried Chicken,Fast Food,4,6,24,Card,New York
+1791,05/02/2025,CUST2852,Fried Chicken,Fast Food,4,6,24,UPI,Austin
+1792,02/02/2025,CUST1766,Pizza,Fast Food,1,8,8,Cash,Austin
+1793,24/03/2025,CUST5920,Ramen,Japanese,1,11,11,Card,Austin
+1794,04/01/2025,CUST7418,Tacos,Mexican,2,3,6,UPI,New York
+1795,24/01/2025,CUST6146,Burger,Fast Food,5,5,25,Card,Chicago
+1796,21/03/2025,CUST5516,Tacos,Mexican,4,3,12,Card,New York
+1797,04/03/2025,CUST9495,Tacos,Mexican,2,3,6,Cash,New York
+1798,09/02/2025,CUST9905,Burrito,Mexican,1,7,7,Cash,New York
+1799,02/01/2025,CUST3904,Pasta,Italian,3,9,27,Card,New York
+1800,15/03/2025,CUST4120,Pasta,Italian,2,9,18,Cash,Austin
+1801,16/03/2025,CUST8970,Sushi,Japanese,1,12,12,Cash,Boston
+1802,06/02/2025,CUST7418,Sandwich,Vegetarian,5,4.5,22.5,Cash,Boston
+1803,16/01/2025,CUST8030,Fried Chicken,Fast Food,4,6,24,Card,Austin
+1804,01/04/2025,CUST4233,Ramen,Japanese,1,11,11,Cash,San Francisco
+1805,18/01/2025,CUST6828,Ramen,Japanese,2,11,22,Cash,Chicago
+1806,31/03/2025,CUST1356,Burrito,Mexican,5,7,35,Cash,New York
+1807,27/02/2025,CUST6323,Sushi,Japanese,1,12,12,Card,Austin
+1808,03/03/2025,CUST4449,Pizza,Fast Food,5,8,40,Card,Chicago
+1809,23/03/2025,CUST3966,Burger,Fast Food,4,5,20,UPI,San Francisco
+1810,10/01/2025,CUST1314,Pizza,Fast Food,2,8,16,Card,Boston
+1811,08/01/2025,CUST7552,Sushi,Japanese,3,12,36,Card,San Francisco
+1812,29/03/2025,CUST5810,Sushi,Japanese,3,12,36,Cash,New York
+1813,26/03/2025,CUST4407,Fried Chicken,Fast Food,3,6,18,Card,Chicago
+1814,20/01/2025,CUST9996,Fried Chicken,Fast Food,1,6,6,UPI,San Francisco
+1815,31/03/2025,CUST3507,Salad,Healthy,2,7,14,Cash,San Francisco
+1816,17/01/2025,CUST3246,Pizza,Fast Food,3,8,24,UPI,New York
+1817,08/03/2025,CUST7870,Fried Chicken,Fast Food,1,6,6,Cash,Boston
+1818,09/02/2025,CUST5531,Pasta,Italian,3,9,27,Cash,New York
+1819,15/02/2025,CUST5514,Salad,Healthy,5,7,35,Card,Chicago
+1820,11/01/2025,CUST1375,Sushi,Japanese,2,12,24,Cash,Chicago
+1821,24/03/2025,CUST5169,Tacos,Mexican,1,3,3,Card,San Francisco
+1822,02/01/2025,CUST2036,Sushi,Japanese,4,12,48,Cash,New York
+1823,23/01/2025,CUST2387,Burger,Fast Food,3,5,15,UPI,New York
+1824,16/02/2025,CUST7885,Ramen,Japanese,5,11,55,UPI,New York
+1825,26/01/2025,CUST5168,Sandwich,Vegetarian,3,4.5,13.5,Card,Boston
+1826,12/03/2025,CUST2328,Salad,Healthy,1,7,7,Card,Boston
+1827,24/03/2025,CUST5445,Salad,Healthy,5,7,35,Card,San Francisco
+1828,21/01/2025,CUST5972,Salad,Healthy,3,7,21,Card,Austin
+1829,22/02/2025,CUST9288,Sandwich,Vegetarian,3,4.5,13.5,UPI,San Francisco
+1830,16/01/2025,CUST3383,Burger,Fast Food,2,5,10,Cash,San Francisco
+1831,16/03/2025,CUST7486,Burger,Fast Food,3,5,15,UPI,San Francisco
+1832,21/01/2025,CUST2216,Pizza,Fast Food,2,8,16,Card,Boston
+1833,03/02/2025,CUST4107,Burrito,Mexican,3,7,21,UPI,Chicago
+1834,03/02/2025,CUST5175,Fried Chicken,Fast Food,2,6,12,Cash,Austin
+1835,11/02/2025,CUST6833,Burrito,Mexican,1,7,7,Cash,San Francisco
+1836,26/01/2025,CUST5597,Sushi,Japanese,5,12,60,Cash,Boston
+1837,15/03/2025,CUST8303,Pizza,Fast Food,2,8,16,UPI,New York
+1838,17/01/2025,CUST3324,Sandwich,Vegetarian,4,4.5,18,UPI,San Francisco
+1839,29/01/2025,CUST4313,Sandwich,Vegetarian,4,4.5,18,Cash,Boston
+1840,28/02/2025,CUST3804,Ramen,Japanese,5,11,55,UPI,San Francisco
+1841,27/01/2025,CUST2278,Ramen,Japanese,5,11,55,UPI,Austin
+1842,13/01/2025,CUST5564,Fried Chicken,Fast Food,3,6,18,UPI,New York
+1843,27/03/2025,CUST7106,Tacos,Mexican,4,3,12,UPI,Chicago
+1844,18/01/2025,CUST1209,Burger,Fast Food,4,5,20,UPI,Boston
+1845,26/01/2025,CUST3936,Pasta,Italian,4,9,36,Card,New York
+1846,09/01/2025,CUST5210,Sushi,Japanese,5,12,60,Cash,Chicago
+1847,24/01/2025,CUST9051,Burrito,Mexican,1,7,7,Card,Austin
+1848,22/02/2025,CUST7784,Pasta,Italian,5,9,45,Card,Chicago
+1849,28/02/2025,CUST9806,Ramen,Japanese,1,11,11,Cash,Chicago
+1850,25/03/2025,CUST7515,Salad,Healthy,2,7,14,Card,Boston
+1851,07/01/2025,CUST9001,Sushi,Japanese,2,12,24,Card,New York
+1852,01/01/2025,CUST3511,Salad,Healthy,4,7,28,Card,Austin
+1853,26/03/2025,CUST3933,Pizza,Fast Food,5,8,40,Cash,San Francisco
+1854,04/02/2025,CUST5845,Ramen,Japanese,5,11,55,UPI,Boston
+1855,09/02/2025,CUST6257,Sushi,Japanese,3,12,36,Card,San Francisco
+1856,02/03/2025,CUST2401,Tacos,Mexican,1,3,3,Card,Chicago
+1857,30/01/2025,CUST5148,Salad,Healthy,3,7,21,UPI,Boston
+1858,04/02/2025,CUST3338,Fried Chicken,Fast Food,4,6,24,UPI,Chicago
+1859,06/02/2025,CUST4839,Pasta,Italian,3,9,27,UPI,Austin
+1860,03/02/2025,CUST6681,Burrito,Mexican,1,7,7,UPI,Austin
+1861,07/02/2025,CUST8274,Ramen,Japanese,2,11,22,UPI,Chicago
+1862,19/01/2025,CUST6018,Burrito,Mexican,2,7,14,UPI,San Francisco
+1863,04/02/2025,CUST8988,Fried Chicken,Fast Food,4,6,24,Card,New York
+1864,18/01/2025,CUST9179,Burrito,Mexican,4,7,28,Card,Chicago
+1865,12/02/2025,CUST8869,Tacos,Mexican,5,3,15,Cash,Austin
+1866,30/01/2025,CUST3281,Sandwich,Vegetarian,1,4.5,4.5,Cash,Boston
+1867,09/01/2025,CUST9224,Pizza,Fast Food,5,8,40,Cash,Boston
+1868,05/01/2025,CUST3841,Tacos,Mexican,5,3,15,UPI,Boston
+1869,12/03/2025,CUST2428,Salad,Healthy,3,7,21,UPI,Boston
+1870,27/01/2025,CUST8593,Salad,Healthy,4,7,28,Cash,New York
+1871,13/02/2025,CUST3751,Sushi,Japanese,5,12,60,Cash,San Francisco
+1872,16/01/2025,CUST6732,Pizza,Fast Food,1,8,8,Card,San Francisco
+1873,01/04/2025,CUST9365,Pasta,Italian,3,9,27,UPI,Chicago
+1874,27/01/2025,CUST3115,Pizza,Fast Food,3,8,24,UPI,San Francisco
+1875,19/01/2025,CUST2365,Burger,Fast Food,5,5,25,Cash,Austin
+1876,15/03/2025,CUST2834,Pizza,Fast Food,3,8,24,Card,Chicago
+1877,07/03/2025,CUST9164,Ramen,Japanese,5,11,55,Card,Austin
+1878,12/01/2025,CUST3823,Salad,Healthy,1,7,7,UPI,Austin
+1879,21/03/2025,CUST6290,Burrito,Mexican,2,7,14,Cash,San Francisco
+1880,13/01/2025,CUST3368,Tacos,Mexican,2,3,6,UPI,San Francisco
+1881,20/01/2025,CUST7227,Burrito,Mexican,2,7,14,Cash,New York
+1882,05/03/2025,CUST1133,Burrito,Mexican,2,7,14,Cash,New York
+1883,02/01/2025,CUST1474,Burrito,Mexican,2,7,14,Card,Chicago
+1884,28/01/2025,CUST2952,Burrito,Mexican,5,7,35,UPI,New York
+1885,07/02/2025,CUST4061,Fried Chicken,Fast Food,5,6,30,Card,Austin
+1886,20/03/2025,CUST2261,Pasta,Italian,4,9,36,UPI,San Francisco
+1887,08/03/2025,CUST2725,Salad,Healthy,2,7,14,UPI,Boston
+1888,09/02/2025,CUST4299,Tacos,Mexican,2,3,6,UPI,Chicago
+1889,12/01/2025,CUST2161,Burrito,Mexican,2,7,14,Cash,Chicago
+1890,11/01/2025,CUST4067,Sandwich,Vegetarian,4,4.5,18,Cash,New York
+1891,19/03/2025,CUST6642,Fried Chicken,Fast Food,2,6,12,UPI,San Francisco
+1892,04/02/2025,CUST8202,Salad,Healthy,2,7,14,Cash,Chicago
+1893,20/03/2025,CUST6664,Salad,Healthy,2,7,14,Cash,Boston
+1894,10/01/2025,CUST6077,Tacos,Mexican,4,3,12,Card,Chicago
+1895,27/03/2025,CUST7231,Salad,Healthy,4,7,28,Card,Chicago
+1896,16/01/2025,CUST7573,Ramen,Japanese,5,11,55,Card,New York
+1897,13/03/2025,CUST5855,Fried Chicken,Fast Food,3,6,18,Card,Boston
+1898,08/03/2025,CUST5023,Burrito,Mexican,2,7,14,Cash,New York
+1899,12/02/2025,CUST2660,Tacos,Mexican,4,3,12,UPI,Austin
+1900,05/02/2025,CUST6813,Sushi,Japanese,4,12,48,UPI,Chicago
+1901,16/01/2025,CUST8894,Burger,Fast Food,1,5,5,Cash,San Francisco
+1902,11/03/2025,CUST7508,Fried Chicken,Fast Food,5,6,30,UPI,San Francisco
+1903,13/01/2025,CUST7238,Tacos,Mexican,5,3,15,UPI,Boston
+1904,14/03/2025,CUST6712,Sushi,Japanese,1,12,12,Cash,Boston
+1905,21/03/2025,CUST4095,Sandwich,Vegetarian,3,4.5,13.5,Cash,Austin
+1906,11/01/2025,CUST8159,Pizza,Fast Food,4,8,32,Card,New York
+1907,23/01/2025,CUST2845,Burrito,Mexican,2,7,14,UPI,Chicago
+1908,17/02/2025,CUST2407,Sushi,Japanese,2,12,24,Card,Austin
+1909,08/01/2025,CUST5513,Sandwich,Vegetarian,3,4.5,13.5,Cash,San Francisco
+1910,26/02/2025,CUST2086,Pizza,Fast Food,4,8,32,Card,Chicago
+1911,25/01/2025,CUST5700,Salad,Healthy,4,7,28,Cash,San Francisco
+1912,07/02/2025,CUST8256,Sandwich,Vegetarian,4,4.5,18,Card,New York
+1913,08/03/2025,CUST6684,Sandwich,Vegetarian,4,4.5,18,UPI,Chicago
+1914,16/01/2025,CUST1109,Pasta,Italian,5,9,45,UPI,Chicago
+1915,28/01/2025,CUST1241,Burger,Fast Food,4,5,20,Cash,Austin
+1916,22/01/2025,CUST1930,Burger,Fast Food,2,5,10,UPI,New York
+1917,16/02/2025,CUST4333,Salad,Healthy,2,7,14,Cash,Chicago
+1918,21/03/2025,CUST8902,Burger,Fast Food,5,5,25,UPI,San Francisco
+1919,22/02/2025,CUST1274,Sushi,Japanese,3,12,36,Cash,Austin
+1920,10/02/2025,CUST6832,Pizza,Fast Food,3,8,24,UPI,Austin
+1921,06/03/2025,CUST3549,Pizza,Fast Food,3,8,24,UPI,San Francisco
+1922,21/02/2025,CUST8396,Sushi,Japanese,2,12,24,Cash,San Francisco
+1923,17/03/2025,CUST7051,Pizza,Fast Food,1,8,8,Cash,New York
+1924,27/02/2025,CUST9598,Fried Chicken,Fast Food,2,6,12,Card,New York
+1925,05/01/2025,CUST2957,Salad,Healthy,5,7,35,UPI,New York
+1926,17/02/2025,CUST4958,Salad,Healthy,4,7,28,Cash,Boston
+1927,21/03/2025,CUST1779,Pasta,Italian,2,9,18,UPI,Boston
+1928,03/03/2025,CUST2730,Pizza,Fast Food,2,8,16,UPI,Chicago
+1929,13/03/2025,CUST1061,Fried Chicken,Fast Food,2,6,12,Card,Austin
+1930,14/02/2025,CUST5343,Ramen,Japanese,1,11,11,Cash,New York
+1931,01/02/2025,CUST2870,Fried Chicken,Fast Food,2,6,12,Cash,Austin
+1932,29/01/2025,CUST1432,Ramen,Japanese,5,11,55,Card,San Francisco
+1933,02/02/2025,CUST2303,Tacos,Mexican,1,3,3,Card,New York
+1934,25/01/2025,CUST1082,Ramen,Japanese,3,11,33,UPI,Austin
+1935,08/03/2025,CUST1585,Burger,Fast Food,3,5,15,Card,New York
+1936,10/01/2025,CUST3682,Pizza,Fast Food,1,8,8,UPI,San Francisco
+1937,09/03/2025,CUST8819,Pasta,Italian,4,9,36,Card,Chicago
+1938,05/02/2025,CUST6825,Ramen,Japanese,1,11,11,Cash,San Francisco
+1939,23/01/2025,CUST9612,Burger,Fast Food,3,5,15,Cash,San Francisco
+1940,16/02/2025,CUST9589,Salad,Healthy,4,7,28,Cash,Boston
+1941,10/03/2025,CUST4278,Burrito,Mexican,2,7,14,Cash,Boston
+1942,07/01/2025,CUST8997,Sandwich,Vegetarian,1,4.5,4.5,Cash,Boston
+1943,09/01/2025,CUST9311,Ramen,Japanese,1,11,11,UPI,Boston
+1944,31/03/2025,CUST1965,Salad,Healthy,4,7,28,Card,New York
+1945,19/01/2025,CUST1248,Ramen,Japanese,4,11,44,UPI,San Francisco
+1946,13/03/2025,CUST2900,Burrito,Mexican,4,7,28,Card,Chicago
+1947,02/01/2025,CUST2751,Fried Chicken,Fast Food,3,6,18,Cash,San Francisco
+1948,21/02/2025,CUST2972,Salad,Healthy,3,7,21,Card,Boston
+1949,15/02/2025,CUST4693,Salad,Healthy,1,7,7,Cash,Chicago
+1950,23/03/2025,CUST4989,Burrito,Mexican,5,7,35,UPI,Boston
+1951,05/03/2025,CUST1021,Sushi,Japanese,1,12,12,Cash,Austin
+1952,03/01/2025,CUST8374,Salad,Healthy,3,7,21,Card,San Francisco
+1953,02/02/2025,CUST3577,Fried Chicken,Fast Food,4,6,24,Cash,Austin
+1954,26/03/2025,CUST9890,Sushi,Japanese,4,12,48,UPI,San Francisco
+1955,21/01/2025,CUST2745,Tacos,Mexican,1,3,3,Card,San Francisco
+1956,02/03/2025,CUST7874,Pasta,Italian,4,9,36,Cash,San Francisco
+1957,01/02/2025,CUST8372,Ramen,Japanese,5,11,55,Card,Austin
+1958,17/03/2025,CUST3112,Ramen,Japanese,5,11,55,Cash,Boston
+1959,03/03/2025,CUST7545,Burrito,Mexican,1,7,7,Card,Boston
+1960,10/01/2025,CUST5964,Pasta,Italian,2,9,18,Card,Chicago
+1961,29/01/2025,CUST6055,Sushi,Japanese,3,12,36,Card,New York
+1962,16/01/2025,CUST7371,Sandwich,Vegetarian,1,4.5,4.5,Cash,Boston
+1963,27/02/2025,CUST7082,Tacos,Mexican,1,3,3,Card,Boston
+1964,01/02/2025,CUST7784,Sandwich,Vegetarian,2,4.5,9,Card,Chicago
+1965,16/01/2025,CUST4035,Fried Chicken,Fast Food,5,6,30,UPI,Chicago
+1966,21/01/2025,CUST5834,Tacos,Mexican,3,3,9,Cash,Boston
+1967,18/03/2025,CUST7914,Pasta,Italian,5,9,45,Cash,New York
+1968,04/01/2025,CUST9392,Tacos,Mexican,5,3,15,Cash,Austin
+1969,16/01/2025,CUST6747,Tacos,Mexican,4,3,12,Cash,Austin
+1970,31/03/2025,CUST8037,Salad,Healthy,1,7,7,Cash,New York
+1971,22/02/2025,CUST6715,Pasta,Italian,3,9,27,Cash,Austin
+1972,27/02/2025,CUST1860,Burrito,Mexican,5,7,35,UPI,San Francisco
+1973,27/02/2025,CUST3995,Pasta,Italian,4,9,36,UPI,Austin
+1974,04/03/2025,CUST4754,Tacos,Mexican,4,3,12,Cash,San Francisco
+1975,27/01/2025,CUST1462,Pasta,Italian,3,9,27,Card,New York
+1976,20/03/2025,CUST1377,Sushi,Japanese,4,12,48,Card,San Francisco
+1977,14/02/2025,CUST1828,Fried Chicken,Fast Food,1,6,6,UPI,Austin
+1978,31/03/2025,CUST9672,Ramen,Japanese,2,11,22,Cash,Austin
+1979,08/03/2025,CUST1679,Fried Chicken,Fast Food,4,6,24,Card,Boston
+1980,13/03/2025,CUST7983,Sandwich,Vegetarian,5,4.5,22.5,UPI,San Francisco
+1981,03/02/2025,CUST3954,Tacos,Mexican,4,3,12,UPI,Boston
+1982,08/01/2025,CUST7779,Pizza,Fast Food,4,8,32,Cash,Austin
+1983,22/02/2025,CUST6718,Tacos,Mexican,1,3,3,UPI,New York
+1984,12/01/2025,CUST2081,Tacos,Mexican,2,3,6,UPI,Chicago
+1985,16/03/2025,CUST2645,Sushi,Japanese,1,12,12,Card,Boston
+1986,03/02/2025,CUST2087,Sandwich,Vegetarian,5,4.5,22.5,Card,Chicago
+1987,26/02/2025,CUST4351,Burrito,Mexican,4,7,28,UPI,New York
+1988,20/01/2025,CUST4043,Tacos,Mexican,5,3,15,Card,Chicago
+1989,02/02/2025,CUST2483,Pizza,Fast Food,1,8,8,UPI,Chicago
+1990,14/02/2025,CUST3486,Pasta,Italian,1,9,9,Card,New York
+1991,18/01/2025,CUST6295,Ramen,Japanese,5,11,55,UPI,Chicago
+1992,16/02/2025,CUST4776,Ramen,Japanese,3,11,33,Cash,Austin
+1993,22/03/2025,CUST2245,Ramen,Japanese,2,11,22,Cash,Boston
+1994,09/01/2025,CUST7887,Salad,Healthy,2,7,14,Cash,San Francisco
+1995,15/03/2025,CUST5165,Tacos,Mexican,1,3,3,Cash,Chicago
+1996,18/02/2025,CUST8356,Fried Chicken,Fast Food,4,6,24,Card,Boston
+1997,23/02/2025,CUST7735,Pizza,Fast Food,3,8,24,UPI,Boston
+1998,15/01/2025,CUST1310,Pizza,Fast Food,4,8,32,Cash,New York
+1999,30/03/2025,CUST5717,Sandwich,Vegetarian,4,4.5,18,Cash,New York
+2000,27/01/2025,CUST6961,Burger,Fast Food,2,5,10,Cash,Austin
+2001,12/02/2025,CUST4669,Tacos,Mexican,5,3,15,Card,Boston
+2002,22/01/2025,CUST5884,Ramen,Japanese,1,11,11,Cash,San Francisco
+2003,16/03/2025,CUST4409,Burger,Fast Food,4,5,20,UPI,Chicago
+2004,17/03/2025,CUST7015,Tacos,Mexican,4,3,12,Card,Chicago
+2005,17/01/2025,CUST1852,Sandwich,Vegetarian,4,4.5,18,UPI,Austin
+2006,11/01/2025,CUST2178,Ramen,Japanese,5,11,55,UPI,San Francisco
+2007,11/01/2025,CUST5687,Sushi,Japanese,3,12,36,Cash,New York
+2008,24/01/2025,CUST9779,Pizza,Fast Food,3,8,24,Card,New York
+2009,22/01/2025,CUST5331,Fried Chicken,Fast Food,3,6,18,UPI,Austin
+2010,11/03/2025,CUST8149,Ramen,Japanese,1,11,11,UPI,New York
+2011,31/01/2025,CUST4452,Fried Chicken,Fast Food,3,6,18,Card,San Francisco
+2012,06/01/2025,CUST2569,Pasta,Italian,4,9,36,Card,San Francisco
+2013,08/01/2025,CUST8522,Salad,Healthy,3,7,21,Cash,Austin
+2014,16/02/2025,CUST2115,Sandwich,Vegetarian,2,4.5,9,UPI,Austin
+2015,12/01/2025,CUST5818,Sushi,Japanese,4,12,48,Cash,New York
+2016,15/03/2025,CUST2414,Burrito,Mexican,1,7,7,UPI,Austin
+2017,19/01/2025,CUST4817,Burrito,Mexican,4,7,28,UPI,Boston
+2018,28/01/2025,CUST7663,Salad,Healthy,5,7,35,Card,Chicago
+2019,05/01/2025,CUST7140,Burrito,Mexican,3,7,21,Card,New York
+2020,27/01/2025,CUST9026,Pasta,Italian,2,9,18,UPI,New York
+2021,20/01/2025,CUST6171,Sushi,Japanese,1,12,12,UPI,Chicago
+2022,16/01/2025,CUST7884,Sandwich,Vegetarian,2,4.5,9,Cash,New York
+2023,26/01/2025,CUST7619,Pizza,Fast Food,3,8,24,UPI,Austin
+2024,06/01/2025,CUST7785,Pasta,Italian,2,9,18,Cash,Austin
+2025,20/01/2025,CUST1833,Fried Chicken,Fast Food,4,6,24,Cash,Austin
+2026,18/01/2025,CUST8760,Pasta,Italian,2,9,18,Card,Austin
+2027,25/01/2025,CUST5152,Fried Chicken,Fast Food,2,6,12,UPI,San Francisco
+2028,19/01/2025,CUST3808,Pasta,Italian,4,9,36,Cash,Chicago
+2029,20/02/2025,CUST6262,Fried Chicken,Fast Food,2,6,12,Card,New York
+2030,31/01/2025,CUST3720,Pasta,Italian,3,9,27,Cash,San Francisco
+2031,08/02/2025,CUST2987,Tacos,Mexican,5,3,15,UPI,San Francisco
+2032,21/03/2025,CUST3868,Pasta,Italian,3,9,27,Cash,New York
+2033,05/03/2025,CUST7633,Salad,Healthy,1,7,7,Cash,Chicago
+2034,25/03/2025,CUST1552,Pizza,Fast Food,1,8,8,Cash,San Francisco
+2035,08/01/2025,CUST5070,Pizza,Fast Food,1,8,8,Cash,Chicago
+2036,06/02/2025,CUST1448,Burrito,Mexican,3,7,21,Card,New York
+2037,21/02/2025,CUST5138,Salad,Healthy,1,7,7,UPI,Boston
+2038,11/01/2025,CUST9688,Sandwich,Vegetarian,1,4.5,4.5,Card,Austin
+2039,10/02/2025,CUST6473,Pizza,Fast Food,5,8,40,UPI,Austin
+2040,26/01/2025,CUST6970,Pizza,Fast Food,4,8,32,Cash,Chicago
+2041,15/02/2025,CUST4204,Salad,Healthy,3,7,21,Card,San Francisco
+2042,06/03/2025,CUST9282,Fried Chicken,Fast Food,3,6,18,UPI,Chicago
+2043,06/01/2025,CUST1744,Tacos,Mexican,4,3,12,UPI,Chicago
+2044,25/01/2025,CUST2733,Ramen,Japanese,4,11,44,UPI,Austin
+2045,08/03/2025,CUST7919,Sushi,Japanese,1,12,12,UPI,New York
+2046,25/03/2025,CUST8323,Sandwich,Vegetarian,4,4.5,18,UPI,Chicago
+2047,05/02/2025,CUST7425,Sushi,Japanese,2,12,24,Cash,Chicago
+2048,21/03/2025,CUST3275,Sushi,Japanese,3,12,36,UPI,San Francisco
+2049,27/01/2025,CUST3669,Sushi,Japanese,4,12,48,Card,Chicago
+2050,13/01/2025,CUST8816,Burger,Fast Food,1,5,5,UPI,New York
+2051,29/01/2025,CUST7900,Salad,Healthy,1,7,7,UPI,New York
+2052,27/01/2025,CUST4134,Ramen,Japanese,2,11,22,UPI,New York
+2053,22/02/2025,CUST2998,Pasta,Italian,5,9,45,Cash,New York
+2054,08/02/2025,CUST8838,Fried Chicken,Fast Food,5,6,30,Card,Boston
+2055,08/01/2025,CUST9037,Burger,Fast Food,1,5,5,Card,Boston
+2056,01/03/2025,CUST5781,Fried Chicken,Fast Food,4,6,24,UPI,Boston
+2057,18/03/2025,CUST5909,Ramen,Japanese,5,11,55,Card,Austin
+2058,23/01/2025,CUST7536,Sushi,Japanese,1,12,12,Cash,Austin
+2059,25/01/2025,CUST9019,Sandwich,Vegetarian,2,4.5,9,UPI,San Francisco
+2060,06/01/2025,CUST9709,Fried Chicken,Fast Food,3,6,18,Card,Boston
+2061,19/01/2025,CUST4393,Fried Chicken,Fast Food,5,6,30,UPI,Austin
+2062,18/02/2025,CUST4923,Tacos,Mexican,1,3,3,UPI,Chicago
+2063,06/02/2025,CUST9560,Ramen,Japanese,5,11,55,Cash,San Francisco
+2064,05/03/2025,CUST3642,Burrito,Mexican,3,7,21,Cash,Chicago
+2065,18/01/2025,CUST9788,Tacos,Mexican,1,3,3,Card,Boston
+2066,24/02/2025,CUST6883,Salad,Healthy,4,7,28,Cash,San Francisco
+2067,01/02/2025,CUST1001,Ramen,Japanese,1,11,11,Card,Chicago
+2068,01/03/2025,CUST2456,Burrito,Mexican,1,7,7,Cash,Boston
+2069,22/03/2025,CUST5716,Sushi,Japanese,3,12,36,Cash,Chicago
+2070,31/03/2025,CUST6657,Sandwich,Vegetarian,2,4.5,9,Cash,Boston
+2071,17/03/2025,CUST5856,Salad,Healthy,4,7,28,Card,Austin
+2072,17/01/2025,CUST2919,Fried Chicken,Fast Food,5,6,30,Card,San Francisco
+2073,08/02/2025,CUST2152,Fried Chicken,Fast Food,1,6,6,Cash,Austin
+2074,24/03/2025,CUST7826,Tacos,Mexican,5,3,15,UPI,New York
+2075,29/03/2025,CUST3249,Salad,Healthy,4,7,28,Cash,Austin
+2076,12/02/2025,CUST5090,Salad,Healthy,4,7,28,Cash,New York
+2077,19/03/2025,CUST5398,Pizza,Fast Food,1,8,8,UPI,Chicago
+2078,09/01/2025,CUST2751,Sushi,Japanese,5,12,60,Card,Boston
+2079,05/03/2025,CUST2457,Burrito,Mexican,1,7,7,UPI,San Francisco
+2080,28/02/2025,CUST3961,Tacos,Mexican,4,3,12,Cash,Boston
+2081,06/02/2025,CUST8114,Fried Chicken,Fast Food,5,6,30,Card,San Francisco
+2082,08/03/2025,CUST4978,Salad,Healthy,4,7,28,Cash,Boston
+2083,08/01/2025,CUST1317,Burger,Fast Food,3,5,15,Card,Austin
+2084,09/02/2025,CUST5729,Fried Chicken,Fast Food,1,6,6,UPI,Boston
+2085,19/01/2025,CUST7113,Sandwich,Vegetarian,5,4.5,22.5,Cash,New York
+2086,04/01/2025,CUST5069,Pizza,Fast Food,1,8,8,Card,New York
+2087,26/03/2025,CUST3132,Sandwich,Vegetarian,1,4.5,4.5,Cash,New York
+2088,16/02/2025,CUST1961,Fried Chicken,Fast Food,3,6,18,Card,San Francisco
+2089,29/01/2025,CUST1470,Fried Chicken,Fast Food,5,6,30,UPI,Austin
+2090,09/01/2025,CUST4720,Sandwich,Vegetarian,1,4.5,4.5,UPI,New York
+2091,19/01/2025,CUST2917,Burrito,Mexican,4,7,28,Cash,New York
+2092,23/01/2025,CUST3969,Burger,Fast Food,2,5,10,UPI,San Francisco
+2093,28/03/2025,CUST8393,Sushi,Japanese,1,12,12,UPI,San Francisco
+2094,04/03/2025,CUST3818,Fried Chicken,Fast Food,5,6,30,Cash,San Francisco
+2095,18/01/2025,CUST8183,Sandwich,Vegetarian,1,4.5,4.5,Cash,Boston
+2096,23/01/2025,CUST4330,Sushi,Japanese,3,12,36,Card,Chicago
+2097,22/02/2025,CUST8160,Tacos,Mexican,4,3,12,UPI,Chicago
+2098,10/03/2025,CUST9588,Fried Chicken,Fast Food,2,6,12,Cash,New York
+2099,04/01/2025,CUST7651,Sushi,Japanese,3,12,36,UPI,Boston
+2100,29/03/2025,CUST8259,Salad,Healthy,2,7,14,Card,New York
+2101,03/01/2025,CUST1859,Sushi,Japanese,2,12,24,Card,Chicago
+2102,26/03/2025,CUST1591,Ramen,Japanese,5,11,55,UPI,New York
+2103,01/02/2025,CUST2220,Pizza,Fast Food,1,8,8,UPI,Austin
+2104,03/02/2025,CUST4539,Salad,Healthy,5,7,35,Card,Boston
+2105,28/03/2025,CUST9054,Pizza,Fast Food,3,8,24,Card,Austin
+2106,11/01/2025,CUST1142,Fried Chicken,Fast Food,5,6,30,Cash,Austin
+2107,02/01/2025,CUST1158,Ramen,Japanese,2,11,22,Card,Austin
+2108,19/02/2025,CUST4510,Tacos,Mexican,4,3,12,Cash,Chicago
+2109,01/04/2025,CUST4144,Tacos,Mexican,2,3,6,UPI,San Francisco
+2110,07/02/2025,CUST6712,Pasta,Italian,5,9,45,Card,Boston
+2111,25/01/2025,CUST8388,Pizza,Fast Food,4,8,32,Cash,Chicago
+2112,13/01/2025,CUST7311,Sushi,Japanese,2,12,24,UPI,San Francisco
+2113,11/03/2025,CUST2920,Pasta,Italian,5,9,45,Cash,Austin
+2114,23/02/2025,CUST4571,Fried Chicken,Fast Food,2,6,12,UPI,Austin
+2115,31/01/2025,CUST1677,Pasta,Italian,1,9,9,Cash,Boston
+2116,01/02/2025,CUST6968,Pasta,Italian,2,9,18,Cash,New York
+2117,28/01/2025,CUST8962,Pizza,Fast Food,4,8,32,Cash,Chicago
+2118,24/02/2025,CUST7481,Sushi,Japanese,1,12,12,Cash,Austin
+2119,25/03/2025,CUST8213,Fried Chicken,Fast Food,2,6,12,UPI,Boston
+2120,24/01/2025,CUST4557,Burrito,Mexican,5,7,35,Cash,Boston
+2121,17/03/2025,CUST9588,Pizza,Fast Food,4,8,32,Cash,San Francisco
+2122,06/03/2025,CUST1511,Sushi,Japanese,3,12,36,Cash,New York
+2123,12/03/2025,CUST5408,Burger,Fast Food,3,5,15,Cash,New York
+2124,07/02/2025,CUST5948,Pasta,Italian,3,9,27,Cash,New York
+2125,24/03/2025,CUST9052,Ramen,Japanese,3,11,33,Card,New York
+2126,01/01/2025,CUST2321,Salad,Healthy,4,7,28,UPI,Austin
+2127,25/01/2025,CUST9188,Sandwich,Vegetarian,2,4.5,9,Cash,Chicago
+2128,07/03/2025,CUST4768,Pasta,Italian,5,9,45,UPI,Austin
+2129,10/01/2025,CUST4548,Salad,Healthy,5,7,35,Cash,Boston
+2130,12/02/2025,CUST7525,Burrito,Mexican,3,7,21,Cash,New York
+2131,05/02/2025,CUST7821,Sandwich,Vegetarian,2,4.5,9,Cash,New York
+2132,14/03/2025,CUST8694,Burger,Fast Food,3,5,15,Card,New York
+2133,23/01/2025,CUST6873,Sushi,Japanese,5,12,60,Cash,San Francisco
+2134,27/02/2025,CUST7988,Sandwich,Vegetarian,5,4.5,22.5,Cash,New York
+2135,17/01/2025,CUST8707,Pasta,Italian,4,9,36,Card,New York
+2136,21/02/2025,CUST1461,Sushi,Japanese,4,12,48,Card,Chicago
+2137,10/02/2025,CUST5957,Fried Chicken,Fast Food,5,6,30,UPI,New York
+2138,09/02/2025,CUST4475,Ramen,Japanese,4,11,44,UPI,Chicago
+2139,13/01/2025,CUST1175,Sushi,Japanese,3,12,36,Cash,Chicago
+2140,24/03/2025,CUST4419,Burrito,Mexican,5,7,35,Card,Boston
+2141,01/02/2025,CUST6821,Fried Chicken,Fast Food,1,6,6,UPI,Boston
+2142,08/03/2025,CUST8506,Tacos,Mexican,3,3,9,UPI,New York
+2143,11/03/2025,CUST9928,Salad,Healthy,1,7,7,UPI,New York
+2144,02/02/2025,CUST5298,Sandwich,Vegetarian,1,4.5,4.5,UPI,San Francisco
+2145,27/02/2025,CUST4708,Ramen,Japanese,1,11,11,Card,Boston
+2146,04/02/2025,CUST4583,Sandwich,Vegetarian,5,4.5,22.5,UPI,Boston
+2147,01/01/2025,CUST7253,Pasta,Italian,5,9,45,Cash,Austin
+2148,26/01/2025,CUST3180,Sandwich,Vegetarian,1,4.5,4.5,Cash,Chicago
+2149,06/03/2025,CUST1272,Tacos,Mexican,3,3,9,UPI,New York
+2150,03/02/2025,CUST3767,Sandwich,Vegetarian,3,4.5,13.5,Card,Chicago
+2151,29/01/2025,CUST1605,Fried Chicken,Fast Food,4,6,24,UPI,Austin
+2152,16/03/2025,CUST7555,Pizza,Fast Food,2,8,16,Cash,Austin
+2153,17/02/2025,CUST6230,Pasta,Italian,2,9,18,Cash,Chicago
+2154,12/01/2025,CUST9701,Fried Chicken,Fast Food,1,6,6,Card,Boston
+2155,14/02/2025,CUST9793,Burrito,Mexican,1,7,7,UPI,Chicago
+2156,22/02/2025,CUST4772,Burrito,Mexican,1,7,7,Card,San Francisco
+2157,02/03/2025,CUST4112,Sandwich,Vegetarian,2,4.5,9,UPI,Boston
+2158,04/01/2025,CUST2053,Tacos,Mexican,1,3,3,Card,Chicago
+2159,26/02/2025,CUST1317,Pizza,Fast Food,4,8,32,UPI,San Francisco
+2160,28/03/2025,CUST4121,Pizza,Fast Food,5,8,40,Cash,San Francisco
+2161,17/02/2025,CUST6980,Sushi,Japanese,5,12,60,Cash,Boston
+2162,29/03/2025,CUST2535,Salad,Healthy,2,7,14,Card,Boston
+2163,02/02/2025,CUST8231,Sandwich,Vegetarian,1,4.5,4.5,Card,Austin
+2164,08/03/2025,CUST5663,Ramen,Japanese,3,11,33,Cash,Chicago
+2165,05/01/2025,CUST3016,Pasta,Italian,3,9,27,Cash,Austin
+2166,17/03/2025,CUST9015,Sandwich,Vegetarian,4,4.5,18,Card,Chicago
+2167,18/02/2025,CUST4964,Tacos,Mexican,4,3,12,UPI,New York
+2168,19/02/2025,CUST1077,Sushi,Japanese,4,12,48,UPI,Boston
+2169,08/02/2025,CUST5263,Pizza,Fast Food,1,8,8,Cash,Boston
+2170,09/01/2025,CUST8902,Pizza,Fast Food,5,8,40,UPI,Boston
+2171,09/01/2025,CUST8538,Sandwich,Vegetarian,1,4.5,4.5,UPI,Chicago
+2172,01/04/2025,CUST3485,Tacos,Mexican,4,3,12,UPI,San Francisco
+2173,26/01/2025,CUST4227,Pasta,Italian,3,9,27,Cash,Chicago
+2174,28/01/2025,CUST1412,Sandwich,Vegetarian,2,4.5,9,Card,Austin
+2175,24/01/2025,CUST6899,Pizza,Fast Food,1,8,8,Cash,Boston
+2176,16/02/2025,CUST1141,Sandwich,Vegetarian,1,4.5,4.5,UPI,Chicago
+2177,31/01/2025,CUST6141,Tacos,Mexican,4,3,12,UPI,Boston
+2178,09/02/2025,CUST6854,Sushi,Japanese,5,12,60,UPI,Boston
+2179,03/01/2025,CUST2090,Ramen,Japanese,2,11,22,Cash,New York
+2180,16/02/2025,CUST8551,Salad,Healthy,1,7,7,UPI,Chicago
+2181,18/01/2025,CUST9946,Pizza,Fast Food,1,8,8,UPI,Chicago
+2182,10/02/2025,CUST3576,Ramen,Japanese,4,11,44,Card,New York
+2183,06/01/2025,CUST6158,Sandwich,Vegetarian,5,4.5,22.5,UPI,Austin
+2184,07/02/2025,CUST3385,Salad,Healthy,3,7,21,Cash,New York
+2185,18/03/2025,CUST7602,Pizza,Fast Food,3,8,24,Card,New York
+2186,24/01/2025,CUST8359,Tacos,Mexican,3,3,9,UPI,Chicago
+2187,04/03/2025,CUST2498,Pizza,Fast Food,3,8,24,Card,New York
+2188,14/02/2025,CUST8169,Burrito,Mexican,2,7,14,Card,New York
+2189,20/01/2025,CUST2897,Salad,Healthy,4,7,28,Card,Austin
+2190,03/01/2025,CUST5105,Tacos,Mexican,1,3,3,Card,New York
+2191,17/02/2025,CUST8986,Sandwich,Vegetarian,4,4.5,18,Cash,Boston
+2192,12/02/2025,CUST1604,Sandwich,Vegetarian,1,4.5,4.5,UPI,Austin
+2193,03/01/2025,CUST8359,Burger,Fast Food,2,5,10,UPI,San Francisco
+2194,19/01/2025,CUST5242,Ramen,Japanese,5,11,55,Card,San Francisco
+2195,16/01/2025,CUST1978,Burger,Fast Food,5,5,25,Card,New York
+2196,09/01/2025,CUST8622,Salad,Healthy,1,7,7,UPI,Boston
+2197,16/03/2025,CUST1741,Fried Chicken,Fast Food,5,6,30,UPI,Chicago
+2198,18/03/2025,CUST4864,Ramen,Japanese,1,11,11,UPI,San Francisco
+2199,10/03/2025,CUST6407,Sushi,Japanese,5,12,60,Cash,San Francisco
+2200,20/03/2025,CUST8870,Pasta,Italian,3,9,27,Card,San Francisco
